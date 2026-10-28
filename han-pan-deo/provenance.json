@@ -1,0 +1,191 @@
+{
+  "title": "한 판 더",
+  "user_mood": "게임에서 후배에게 져서 화가 나고 분노함; 눈앞에서 비웃는다고 설명함",
+  "image_observation": "Smiling person indoors with ceiling lighting and an olive quilted jacket. Identity/intent not inferred.",
+  "scene_policy": "Game defeat, junior relationship and mockery come from user description, not inferred from face.",
+  "image_sha256": "5a3fcd45bfce29fcd5055e57e2aab12e243fcdc5a28b1fdae6b2711f1c678b82",
+  "image_not_copied": true,
+  "key": "A minor (natural minor)",
+  "genre": "rap / boom-bap piano backing",
+  "bpm": 96,
+  "usage_profile": "research-noncommercial",
+  "checkpoint_sha256": "3ac0e307969432afffe3e7acf6ddb3989d9ff259f54581cb1a52501da7fb0864",
+  "note_source": "fresh minor-conditioned inference from actual-score joint-piano model; RH voicings and velocities sampled",
+  "rhythm_source": "authored boom-bap piano pulse and LH root/fifth pattern; not learned rap genre",
+  "lyric_source": "new original Korean lyrics authored for this user story before assigning spoken-rhythm notes",
+  "audio_scope": "Piano backing only. Rap lyrics and rhythmic notation supplied; no synthesized human rap voice.",
+  "form_labels": {
+    "0": "Intro",
+    "4": "Verse 1",
+    "12": "Hook",
+    "16": "Verse 2",
+    "24": "Hook",
+    "28": "Outro"
+  },
+  "generation": [
+    {
+      "bar": 0,
+      "sampled_choices": 5,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 1,
+      "sampled_choices": 5,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 2,
+      "sampled_choices": 5,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 3,
+      "sampled_choices": 5,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 4,
+      "sampled_choices": 12,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 5,
+      "sampled_choices": 11,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 6,
+      "sampled_choices": 10,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 7,
+      "sampled_choices": 12,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 8,
+      "sampled_choices": 11,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 9,
+      "sampled_choices": 10,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 10,
+      "sampled_choices": 10,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 11,
+      "sampled_choices": 12,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 12,
+      "sampled_choices": 15,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 13,
+      "sampled_choices": 13,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 14,
+      "sampled_choices": 14,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 15,
+      "sampled_choices": 15,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 16,
+      "sampled_choices": 10,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 17,
+      "sampled_choices": 10,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 18,
+      "sampled_choices": 11,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 19,
+      "sampled_choices": 11,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 20,
+      "sampled_choices": 10,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 21,
+      "sampled_choices": 10,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 22,
+      "sampled_choices": 10,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 23,
+      "sampled_choices": 11,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 24,
+      "source": "explicit hook reprise",
+      "source_bar": 12
+    },
+    {
+      "bar": 25,
+      "source": "explicit hook reprise",
+      "source_bar": 13
+    },
+    {
+      "bar": 26,
+      "source": "explicit hook reprise",
+      "source_bar": 14
+    },
+    {
+      "bar": 27,
+      "source": "explicit hook reprise",
+      "source_bar": 15
+    },
+    {
+      "bar": 28,
+      "sampled_choices": 5,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 29,
+      "sampled_choices": 6,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 30,
+      "sampled_choices": 6,
+      "rhythm_source": "authored sparse boom-bap piano groove"
+    },
+    {
+      "bar": 31,
+      "source": "authored final A-minor tonic"
+    }
+  ],
+  "model_condition": {
+    "mode": "minor",
+    "style": "romantic"
+  },
+  "seed": 2026102807
+}

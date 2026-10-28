@@ -1,0 +1,18 @@
+[
+  {
+    "sample": "piano",
+    "pages": 2,
+    "a4": true,
+    "rendered_all_pages": true,
+    "vector_pdf": true,
+    "pdf_bytes": 130761
+  },
+  {
+    "sample": "rap",
+    "pages": 4,
+    "a4": true,
+    "rendered_all_pages": true,
+    "vector_pdf": true,
+    "pdf_bytes": 548370
+  }
+]

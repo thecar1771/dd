@@ -1,0 +1,16 @@
+{
+  "bars": 32,
+  "bpm": 96,
+  "music_seconds": 80,
+  "piano_notes": 241,
+  "rap_syllables": 271,
+  "lyric_lines": 24,
+  "exact_rap_xml_timing": true,
+  "exact_grand_staff_xml_timing": true,
+  "exact_midi_notes_timing_velocity": true,
+  "complete_lyrics": true,
+  "korean_syllabic_single": true,
+  "no_hanging_notes": true,
+  "audio_scope": "piano backing only; optional rap rhythm MIDI is a woodblock timing guide, not human vocals",
+  "checkpoint_sha256": "3ac0e307969432afffe3e7acf6ddb3989d9ff259f54581cb1a52501da7fb0864"
+}

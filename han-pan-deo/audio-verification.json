@@ -1,0 +1,10 @@
+{
+  "sample_rate": 44100,
+  "channels": 2,
+  "seconds": 83.0,
+  "sample_peak": 11500,
+  "peak_dbfs": -9.095,
+  "rms_dbfs": -26.244,
+  "clipped_samples": 0,
+  "scope": "piano accompaniment only; no synthesized rap vocal"
+}

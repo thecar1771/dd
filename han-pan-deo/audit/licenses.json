@@ -1,0 +1,394 @@
+[
+ {
+  "source": "asap",
+  "repo": "fosfrancesco/asap-dataset",
+  "commit": "afc815c75c42e83a79c03feb6da8a35e77d4c6b8",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "LICENSE.md": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+   "README.md": "CC BY-NC-SA 4.0"
+  }
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/bach_en_fr_suites",
+  "commit": "9cd6d362ed8246ed8edfc425944862ed88ddf1a5",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/bartok_bagatelles",
+  "commit": "c6221f6ecb4dbcd476e827f6bf8705bdcb15c8a9",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/beethoven_piano_sonatas",
+  "commit": "ea7181bff88abc8713257234f7ec4033178c57a9",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "LICENSE": "Attribution-NonCommercial-ShareAlike 4.0 International",
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/chopin_mazurkas",
+  "commit": "5931135e614985023b96de2a291c74b7ef90b287",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "LICENSE": "Attribution-NonCommercial-ShareAlike 4.0 International",
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/couperin_clavecin",
+  "commit": "3bd00fc56d3473b26f1bea5fe50d1a1f2458c462",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/cpe_bach_keyboard",
+  "commit": "4b3511eab12b5fbfc7aa5c75819ee02225430da8",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/debussy_suite_bergamasque",
+  "commit": "322ece590e536924308a551a69d9c1520248d3d5",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "LICENSE": "Attribution-NonCommercial-ShareAlike 4.0 International",
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/dvorak_silhouettes",
+  "commit": "f228006fcd8696c809cfc8e701ed215cec3d07f1",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "LICENSE": "Attribution-NonCommercial-ShareAlike 4.0 International",
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/grieg_lyric_pieces",
+  "commit": "91a304563521f3f273b8c0aadec1ce2ede2d1384",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "LICENSE": "Attribution-NonCommercial-ShareAlike 4.0 International",
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/handel_keyboard",
+  "commit": "d3b42765e0d2457b6abb1bdb3e8dd622db61b084",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/jc_bach_sonatas",
+  "commit": "ac9fd07905eb62c3d8cfbd96811491170a216232",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/kozeluh_sonatas",
+  "commit": "23c1983a48809647af1a08d54b1fade39ec93995",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/liszt_pelerinage",
+  "commit": "f1cfd308adba5763aad3a18885eac48d42449fc4",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "LICENSE": "Attribution-NonCommercial-ShareAlike 4.0 International",
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/medtner_tales",
+  "commit": "1d2e58ba8d329463829e45e75900af43be4256bf",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "LICENSE": "Attribution-NonCommercial-ShareAlike 4.0 International",
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/mozart_piano_sonatas",
+  "commit": "5337257a5318711e6302cfe85c3f1a6ade3c6271",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "LICENSE": "Attribution-NonCommercial-ShareAlike 4.0 International",
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/poulenc_mouvements_perpetuels",
+  "commit": "7793981bf4bc9dbcc1d14de4c17abb4cb412ce4b",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/rachmaninoff_piano",
+  "commit": "a73f3246a764215863000357c81309b210a43f15",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/ravel_piano",
+  "commit": "5a97ccee5383a87dc38688733a59dba499ef44d9",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/scarlatti_sonatas",
+  "commit": "7750a6086db69c48e5e65f71565d24bd0f68513a",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/schulhoff_suite_dansante_en_jazz",
+  "commit": "e558f2d2505dcdf827b4212e87fda875e0440908",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/schumann_kinderszenen",
+  "commit": "ee929c1556bc937fe1ea7303cac4476e37caa4d1",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "LICENSE": "Attribution-NonCommercial-ShareAlike 4.0 International",
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/tchaikovsky_seasons",
+  "commit": "5af15033c5f9c282f38fcf71234b86349e61e8c3",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "LICENSE": "Attribution-NonCommercial-ShareAlike 4.0 International",
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/wf_bach_sonatas",
+  "commit": "379e50dd389dbdbcf77f5eb88ecac7841c7ed0e4",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "distant_listening_corpus@12be0d3ff7c6e0ef67c7d4e8e44541e5f288f39d"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/debussy_childrens_corner",
+  "commit": "f4bf168540a369a360550c9136fe2954cc8402d5",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-SA-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "standalone repo HEAD of main"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/debussy_deux_arabesques",
+  "commit": "acf40ce6ec0da1175c767bfaef4b5fde63f3d7e4",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-SA-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "standalone repo HEAD of main"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/debussy_estampes",
+  "commit": "7fff184fb6a24eaeb9923c69fe5ae058db92f29a",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-SA-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "standalone repo HEAD of main"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/debussy_etudes",
+  "commit": "02e6b0610351a3687a652eb18195111f2fed57ca",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-SA-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "standalone repo HEAD of main"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/debussy_images",
+  "commit": "e9be32a9a7471142cdcaddcda625a400388d8df6",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-SA-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "standalone repo HEAD of main"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/debussy_other_piano_pieces",
+  "commit": "74224fd3979ddec4a4a818cca51a883f6d91ca94",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-SA-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "standalone repo HEAD of main"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/debussy_pour_le_piano",
+  "commit": "d288cbf3b5480a6b1f83ba279d6253fc5320de9b",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-SA-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "standalone repo HEAD of main"
+ },
+ {
+  "source": "dcml",
+  "repo": "DCMLab/debussy_preludes",
+  "commit": "1d3d5d2fad9bc80029bce10aa8af486efe983b7f",
+  "effective_license": "CC-BY-NC-SA-4.0",
+  "evidence": {
+   "README.md": "Attribution-NonCommercial-ShareAlike 4.0",
+   "CITATION.cff": "CC-BY-NC-SA-4.0",
+   ".zenodo.json": "CC-BY-NC-SA-4.0"
+  },
+  "pinned_by": "standalone repo HEAD of main"
+ }
+]
