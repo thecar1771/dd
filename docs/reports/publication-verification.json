@@ -1,0 +1,24 @@
+{
+  "source_report_sha256": "fd98795076de82bf0dc2fd009a44ac833ad09a1e0e06b365f3b681aab0a17f92",
+  "published_report_sha256": "ee4b923772bc6e8da97335a2dc30a5a05a2f04d78d6818bbc4e3c9b904514d79",
+  "relative_links_checked": 30,
+  "scope": "report, summary metrics and supporting documents only; no dataset, checkpoint or original photo",
+  "files": {
+    "docs/reports/2026-10-29-process-model-training-evidence.json": "6751edaee0b36d86ae65f4ec3759aa672101ce037ac6a142ca8b362b58c4599e",
+    "docs/reports/original-local-document-verification.json": "b5a9ffe13ea1757cdb332950869b31c0afc96af1378fa0cd697ecce13cc48b6c",
+    "docs/reports/support/piano-TRAINING.md": "a936f92f7c84d98fcb196b9229988abbd86af8db4fead85b727128c3f1cc516d",
+    "docs/reports/support/piano-TRAINING-REPORT.md": "201481c3cdca3448c1107c9bacf2a9c16526797c9bb68ec7b63a16b9ac21e6d0",
+    "docs/reports/support/piano-data-summary.json": "79130ac1564141ff691979357d1dd81d7d067a574fe0c2f3e093d957a5a97099",
+    "docs/reports/support/piano-corpus-audit.md": "ba06182db085ea40015724f296f9a780751635eca0df30ed45f18e7e82d8aa1f",
+    "docs/reports/support/licenses.json": "5aeef36296b08891aceddb7ee7e6ca588284d42a1252f36dde1309df5736c4b8",
+    "docs/reports/support/piano-final-delivery-verification.json": "2d6977f6ef1329d90dd04ead2c86d748b8d7886c47bd02629d7c0d80de239cc3",
+    "docs/reports/support/han-pan-deo-publication.json": "fb611b1004c1551588d2a0185f2e2466a4e168440920e29ebd7d2c79a7154d11",
+    "docs/reports/support/genre-bootstrap-dgx.md": "7b3b8ac5d09880a8455e9434109ac0e8f0c8c7fde6223c214aaab489fd6e4e0f",
+    "docs/reports/support/real-genre-dgx.md": "af629627599c77be58d138ac53183c241636585e51fe3a0d595d137f6a8a8766",
+    "docs/reports/support/commu-research-dgx.md": "8ea33ce40d7d5f292d40b1ae998204bedcfb99d287c56f684541e3245bf3bfce",
+    "docs/reports/support/genre-g0.md": "812814ac9e47618a8d880b09b0ab240c86801016176c9a89899f3d0cd00dbe55",
+    "docs/reports/support/keypoints-dgx.md": "87c36d542916f2ef3eb65f4ae141dac9a7e98ac5a394848d43cc8698fa1aad82",
+    "docs/reports/2026-10-29-process-model-training-report.md": "ee4b923772bc6e8da97335a2dc30a5a05a2f04d78d6818bbc4e3c9b904514d79",
+    "README.md": "877ee601451c414f6d9c482b72bf6e35a343edad0121011b69d5c08a23850b3f"
+  }
+}

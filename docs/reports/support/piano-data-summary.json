@@ -1,0 +1,237 @@
+{
+  "accepted_unique_actual_score_files": 1215,
+  "actual_works": 584,
+  "actual_measures": 114066,
+  "actual_notes": 1736760,
+  "new_score_files_accepted": 912,
+  "by_source": {
+    "mutopia": 459,
+    "asap": 141,
+    "dcml": 615
+  },
+  "by_split": {
+    "train": 866,
+    "test": 219,
+    "validation": 130
+  },
+  "notes_by_split": {
+    "train": 1358334,
+    "validation": 195497,
+    "test": 182929
+  },
+  "composers_by_split": {
+    "train": [
+      "albeniz",
+      "alkan",
+      "andre",
+      "anonymous",
+      "balakirev",
+      "bartok",
+      "beethoven",
+      "benda",
+      "bizet",
+      "brahms",
+      "brown",
+      "burgmuller",
+      "clementi",
+      "czerny",
+      "debussy",
+      "dussek",
+      "dvorak",
+      "field",
+      "gobbaerts",
+      "gottschalk",
+      "grieg",
+      "handel",
+      "hanon",
+      "haydn",
+      "hunter",
+      "iliev",
+      "joplin",
+      "kozeluch",
+      "kuhlau",
+      "kumar",
+      "liszt",
+      "magnenat",
+      "medtner",
+      "mendelssohn",
+      "mikhail",
+      "mozart",
+      "mussorgsky",
+      "pachelbel",
+      "pease",
+      "pejacsevich",
+      "rachmaninoff",
+      "ravel",
+      "rimsky",
+      "satie",
+      "scarlatti",
+      "schubert",
+      "schumann",
+      "scriabin",
+      "sidwell",
+      "smallwood",
+      "sousa",
+      "spagnoletti",
+      "stanchinsky",
+      "strauss",
+      "tchaikovsky",
+      "traditional",
+      "turpin",
+      "wanhal",
+      "yaniewicz"
+    ],
+    "validation": [
+      "chopin",
+      "comeau",
+      "mueller"
+    ],
+    "test": [
+      "bach",
+      "kruetzer",
+      "pleyel"
+    ]
+  },
+  "usage_profile": "research-noncommercial",
+  "synthetic_training_pieces": 0,
+  "policy_excludes": [
+    {
+      "id": "dcml:poulenc_mouvements_perpetuels:01_assez_modere",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:poulenc_mouvements_perpetuels:02_tres_modere",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:poulenc_mouvements_perpetuels:03_alerte",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_01a",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_01b",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_02",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_03",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_04",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_05",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_06",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_07",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_08",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_09",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_10",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_11",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_12",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_13a",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_14",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_15",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_16",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_17",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_18",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_19",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:rachmaninoff_piano:op42_20",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:schulhoff_suite_dansante_en_jazz:suite_dansante_en_jazz_1_stomp",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:schulhoff_suite_dansante_en_jazz:suite_dansante_en_jazz_2_strait",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:schulhoff_suite_dansante_en_jazz:suite_dansante_en_jazz_3_waltz",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:schulhoff_suite_dansante_en_jazz:suite_dansante_en_jazz_4_tango",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:schulhoff_suite_dansante_en_jazz:suite_dansante_en_jazz_5_slow",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    },
+    {
+      "id": "dcml:schulhoff_suite_dansante_en_jazz:suite_dansante_en_jazz_6_fox-trot",
+      "reason": "collector-flagged underlying-composition review withheld for this run"
+    }
+  ],
+  "additional_duplicates": 0,
+  "manifest_sha256": "4f78ac0a3ad5aae7bde02054edac86a67d2f01f83dd8f98948d0b3899965fb5a",
+  "validated_by_training_loader": true,
+  "source_snapshot_sha256": "7080f3e971ff4cc55a092652a2facc9e7716e50ab35149c310f253fb3993612a",
+  "final_rights_review_sha256": "3ba458847e0dc9a1e1a0779ea64f3f946bc222c6ff1abdde20d7ace543634e61",
+  "key_normalization": "one documented profile-estimated transposition per source score, counted once",
+  "midi_conversion_policy": "absolute joint-key canonicalization before bar splitting; complete silent/partial measure table",
+  "reparsed_midi_files": 600,
+  "changed_midi_files": 21,
+  "additional_duplicates_after_repair": 0,
+  "new_strict_conversion_rejects": [
+    {
+      "id": "asap:Liszt/Mephisto_Waltz",
+      "source": "asap",
+      "error": "unrepresentable solo-piano measure length"
+    }
+  ],
+  "data_converter_sha256": "2083fed0413163748f9c055913b751aa4709d13cc75077170f98a9c99a32e063"
+}

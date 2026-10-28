@@ -29,3 +29,7 @@
 [가사와 악보 안내](han-pan-deo/README.md) · [피아노 반주 MP3](han-pan-deo/piano/backing.mp3) · [랩+피아노 악보 PDF](han-pan-deo/rap/score.pdf) · [전체 ZIP](han-pan-deo/han-pan-deo-rap-piano.zip)
 
 MP3에는 랩 목소리 없이 피아노 반주만 포함됩니다. 사진 원본은 포함하지 않았습니다. 연구·비상업용 모델 이용 조건은 안내 문서를 참고하세요.
+
+## 처리 프로세스와 모델 학습 보고서
+
+[2026-10-29 상세 보고서](docs/reports/2026-10-29-process-model-training-report.md)에는 처리 흐름, 모델명과 구조, 데이터셋, 학습·평가 결과, 가사 표기 수정, 향후 전략과 근거 기록을 정리했습니다.

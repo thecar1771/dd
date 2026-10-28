@@ -1,0 +1,31 @@
+{
+  "dataset_files": 1215,
+  "train_files": 866,
+  "actual_bars": 114066,
+  "actual_notes": 1736760,
+  "manifest_sha256": "4f78ac0a3ad5aae7bde02054edac86a67d2f01f83dd8f98948d0b3899965fb5a",
+  "checkpoint_sha256": "3ac0e307969432afffe3e7acf6ddb3989d9ff259f54581cb1a52501da7fb0864",
+  "selected_epoch": 6,
+  "steps": 1164,
+  "target_token_presentations": 34226616,
+  "scores": [
+    {
+      "name": "quiet-day",
+      "bars": 32,
+      "pdf_pages": 2,
+      "notes": 282,
+      "exact_xml_midi_roundtrip": true,
+      "mp3_sha256": "682f6de323e6aaa155e64b31edb077aaf459c93bf4d71de9d357b806685c38de"
+    },
+    {
+      "name": "warm-steps",
+      "bars": 32,
+      "pdf_pages": 2,
+      "notes": 354,
+      "exact_xml_midi_roundtrip": true,
+      "mp3_sha256": "e957fde621b1c80be869a5f273ce94a8d88bf06a71bd18f9b029ece2542ea795"
+    }
+  ],
+  "full_windows_tests": "188 passed, 3 expected skips",
+  "research_profile": "research-noncommercial"
+}

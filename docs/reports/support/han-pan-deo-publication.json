@@ -1,0 +1,296 @@
+{
+  "repository": "thecar1771/dd",
+  "branch": "main",
+  "commit": "21f1ecacc2d9cb20fb62aefbc8d17ced5c77d315",
+  "files": [
+    {
+      "path": "README.md",
+      "git_sha": "a913277fe38e1c32cfc59cb614e5e7f584ba9a71",
+      "sha256": "b6cad112cd1b23d2e2f7ac675277b5a437f395c94fe59a9cb5d429c0c27b2865",
+      "bytes": 1741
+    },
+    {
+      "path": "han-pan-deo/.gitattributes",
+      "git_sha": "625449502ba4b4d7c229c6ccee42e3ec41cc780c",
+      "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
+      "bytes": 9
+    },
+    {
+      "path": "han-pan-deo/README.md",
+      "git_sha": "d26da034d45f267637f6c9b567124b7ffeb82ef7",
+      "sha256": "e521f63cabec8828867e0d4e19d4e8b4fdd832d0fe0ab47ce9f662a22f71ed00",
+      "bytes": 3737
+    },
+    {
+      "path": "han-pan-deo/SHA256SUMS.txt",
+      "git_sha": "7010fc74317a73dc7a7c8c59f4c128b225e1ea74",
+      "sha256": "b9de54766abf5f135665fbbd7744791d99de543ea07044353ed580d0a17942c6",
+      "bytes": 3869
+    },
+    {
+      "path": "han-pan-deo/audio-verification.json",
+      "git_sha": "3344b6e28a1644d35c71843f47d63d92c490fbb7",
+      "sha256": "dd8b98e1627533ec060ed1b1b5e02fd50e3ec678e4a06eb3bdb92e62edb91171",
+      "bytes": 221
+    },
+    {
+      "path": "han-pan-deo/audit/TimGM6mb-copyright",
+      "git_sha": "f232ad48e3ffab0ca580f06019b58eacc14b45bc",
+      "sha256": "6ef01652619cf29b289a9403cd2ab59550fa3e2c30844c67292eea5421f993e9",
+      "bytes": 2307
+    },
+    {
+      "path": "han-pan-deo/audit/TinySoundFont-LICENSE",
+      "git_sha": "533da73eb51d65d6c34d4baf3420d770c3570a5e",
+      "sha256": "ef10cb839de73fb6d5d32ea7151979e87809a6df70dc7e7ee8457ae1c9e7aa7e",
+      "bytes": 1155
+    },
+    {
+      "path": "han-pan-deo/audit/licenses.json",
+      "git_sha": "6448113c3fe9082522569ef07c397ff146bd9914",
+      "sha256": "c6efb7bbe662f5500ce6fa9e2104945c6cc26d96b302b3c2a339d358db99870f",
+      "bytes": 13572
+    },
+    {
+      "path": "han-pan-deo/engraving-verification.json",
+      "git_sha": "fde3ae9b8ca04ecdb73fb6af6943ea5b4b571f60",
+      "sha256": "98aa8f4319932f75069374436c07874b8b603cc4c3f03af6f8badc441faf5d7c",
+      "bytes": 1420
+    },
+    {
+      "path": "han-pan-deo/generation-verification.json",
+      "git_sha": "996e1ce45f097fc0303800e1064da2c19de965cb",
+      "sha256": "57e06b94635ea29bbf281d3f765aef0b4a79cf609431f1ee2c1813bdba063b03",
+      "bytes": 332
+    },
+    {
+      "path": "han-pan-deo/han-pan-deo-rap-piano.zip",
+      "git_sha": "10942309b05461ab32653efb5836882fa331bbe6",
+      "sha256": "4114608129427e770989284226f8c15da0a038b6d1693eaa6aaba0a657f2e457",
+      "bytes": 2626663
+    },
+    {
+      "path": "han-pan-deo/lyric-cues.json",
+      "git_sha": "d200116c8a14e4ad3522c6f00fc3e1f6f7f6f8a4",
+      "sha256": "0c9e62955a97130413475b9f3798d84100a7e6a5398a8db75cae2f580a2b201a",
+      "bytes": 3696
+    },
+    {
+      "path": "han-pan-deo/lyrics.lrc",
+      "git_sha": "5ca651a9b0894478d41bda49a964fddc8e561dbc",
+      "sha256": "19810e3ccb499539876fb2311c09c0770d99a697224cb10238a0dafe429481e3",
+      "bytes": 1180
+    },
+    {
+      "path": "han-pan-deo/lyrics.txt",
+      "git_sha": "087f3248c9b8a129609f6752c1a78268790db8cf",
+      "sha256": "7623ac7ff35ab06524628e83c21c13fcd6a50bf92cd6e039032f41cd072cccc2",
+      "bytes": 1042
+    },
+    {
+      "path": "han-pan-deo/pdf-review/all-pages.png",
+      "git_sha": "752233ea01b42fc6b738f81a2a99f44bbb73a2fd",
+      "sha256": "0dfd9d897b74c78002ded6d39d45b6394a43c0cf89a3db4da13c4cf85e2bc928",
+      "bytes": 239857
+    },
+    {
+      "path": "han-pan-deo/pdf-review/verification.json",
+      "git_sha": "93a53e82e4f788805850a582a2e978c19d92347d",
+      "sha256": "f4d1fcca02f7b69f5e2e98814da21fbf29adb4af2391d536c0199e8a00ce2c85",
+      "bytes": 305
+    },
+    {
+      "path": "han-pan-deo/piano/backing.lrc",
+      "git_sha": "5ca651a9b0894478d41bda49a964fddc8e561dbc",
+      "sha256": "19810e3ccb499539876fb2311c09c0770d99a697224cb10238a0dafe429481e3",
+      "bytes": 1180
+    },
+    {
+      "path": "han-pan-deo/piano/backing.mp3",
+      "git_sha": "7bd0efd7b38ae40bfc3c066ef6495d39e24576be",
+      "sha256": "6ad01225b622d3d16477c5c094f8075a0587cb226663a221465a27672e2c646a",
+      "bytes": 831567
+    },
+    {
+      "path": "han-pan-deo/piano/composition.json",
+      "git_sha": "36dd86516b32c5fde6eec4ab16661a5478964a7e",
+      "sha256": "af7cfd57f9022d9903db322eb089f1b3bbe0c1a598be232e8dbe19df481bada4",
+      "bytes": 61213
+    },
+    {
+      "path": "han-pan-deo/piano/engraved/engraving.json",
+      "git_sha": "e6aad6b588d612b5af7ea9ff2b5ce80b8b73cfaf",
+      "sha256": "75843a4abd2a53883d495780090d9a66d1273fa21f7a841ac8a1aa4dc037caa7",
+      "bytes": 646
+    },
+    {
+      "path": "han-pan-deo/piano/engraved/score-01.svg",
+      "git_sha": "dafa8cd0484fb77cdbf00b20e09035535b9a2c55",
+      "sha256": "08d032c28308a91f28696d7999a5d92c67ec434205503b0266a44e38d464efe9",
+      "bytes": 205855
+    },
+    {
+      "path": "han-pan-deo/piano/engraved/score-02.svg",
+      "git_sha": "5856b29113f6dba0fbf99edad51d4831c726e31d",
+      "sha256": "7b4a4ad84e2c2b4bad41849b6b6c7154f24111b079dd3c90b7b19864b1a61211",
+      "bytes": 143000
+    },
+    {
+      "path": "han-pan-deo/piano/preview.png",
+      "git_sha": "6207a7e80821930d13e514d50dad9e0848e1480d",
+      "sha256": "a6015025a87091979cace9d54dc4cf179acbb2c0c5289148d1b2f106e8591a31",
+      "bytes": 122284
+    },
+    {
+      "path": "han-pan-deo/piano/score-01.png",
+      "git_sha": "db0c776f13544446569b45a94643c4787299ce33",
+      "sha256": "e84b083a6c2aa5db395fd0698dd0fbb32a97780840fd4db9e581b691f68fa558",
+      "bytes": 87769
+    },
+    {
+      "path": "han-pan-deo/piano/score-02.png",
+      "git_sha": "29165145933a9ad4d92acf3936705a50826d02c2",
+      "sha256": "d6afa4ed34303404bf510f55b0923701e004030a8a8ba669e4984900aaa5165b",
+      "bytes": 79999
+    },
+    {
+      "path": "han-pan-deo/piano/score.mid",
+      "git_sha": "8398997202bf18f289b2905ccb7ea68ce821dea1",
+      "sha256": "89b5c55f19c4d11a49bebe39e08c08517059f8d9890e29b66a10d802882785ba",
+      "bytes": 2348
+    },
+    {
+      "path": "han-pan-deo/piano/score.musicxml",
+      "git_sha": "b92a3101ad206e102d06fad1194fc5bc8a981125",
+      "sha256": "b851e2842b20392b45e00568863d6cd53903aba1b6e8665bd31b0df2ef3efb0e",
+      "bytes": 54421
+    },
+    {
+      "path": "han-pan-deo/piano/score.pdf",
+      "git_sha": "ea59774a2aa8bbf7d117667a9e008effdb97856b",
+      "sha256": "ef130be4dd26c753e9dde4733811db09f8acba01c48fb7797915df06fef1bb76",
+      "bytes": 130761
+    },
+    {
+      "path": "han-pan-deo/provenance.json",
+      "git_sha": "a882300419eceaa141f2f1b3a20f7c567b1e8090",
+      "sha256": "4cef94d1022cf9d00ff05d4e022011ccda434e3aeb18fd3834f32d88a346da72",
+      "bytes": 5173
+    },
+    {
+      "path": "han-pan-deo/rap/composition.json",
+      "git_sha": "d63b53acec285f48f85bdeced30656e3c6393ab3",
+      "sha256": "d7f80570b4b35e847de89f99b83b8db7a5a8edbf8e7069e321daaef3d58c2c8b",
+      "bytes": 119470
+    },
+    {
+      "path": "han-pan-deo/rap/engraved/engraving.json",
+      "git_sha": "750b8a7aac0e6931b08baa465b2e0ae0ed29eb09",
+      "sha256": "553b14cababa3c3ed18d15a0f06cbb8501aa81a1fc7b4da161464bc5d825d634",
+      "bytes": 649
+    },
+    {
+      "path": "han-pan-deo/rap/engraved/score-01.svg",
+      "git_sha": "7efa4a8882c060a80d26011aca62beb0d990b057",
+      "sha256": "12e8f7c29c542575fa1e0b1b6e8e6e43f0bf65eb683f66cdc53031774e02b1d3",
+      "bytes": 233264
+    },
+    {
+      "path": "han-pan-deo/rap/engraved/score-02.svg",
+      "git_sha": "4829354d0f6fdb8c8749841406df63a0eafbed16",
+      "sha256": "fcf73f1a51b0bf470634db47013c1a13b07fb91d115a39777b2058f1ad791c45",
+      "bytes": 196875
+    },
+    {
+      "path": "han-pan-deo/rap/engraved/score-03.svg",
+      "git_sha": "d59dff2acbd1db000a2229bc7ab4977eb6f92e3c",
+      "sha256": "9375dd9b0a84782fd389b4da2c4d1178607150e1d88d551c13158b404d7e93e2",
+      "bytes": 171528
+    },
+    {
+      "path": "han-pan-deo/rap/engraved/score-04.svg",
+      "git_sha": "d026d3d85554507a3e71246a69aa1305a1ee6b25",
+      "sha256": "18ce0d0f95a4a2c0deca456064acbca5013891e0ce2843455013c3219cbbc5f2",
+      "bytes": 110399
+    },
+    {
+      "path": "han-pan-deo/rap/preview.png",
+      "git_sha": "499b9dcdd57215eabc7385a2df566c196ac152b0",
+      "sha256": "2d92e95b0453d764e0af5b75d8f5ae51b3f799b22d243f96d358abe2271b10a6",
+      "bytes": 137367
+    },
+    {
+      "path": "han-pan-deo/rap/score-01.png",
+      "git_sha": "60b7451a82d066d24840c413c5d61d793dc654ac",
+      "sha256": "ca819f99951bb20810c9ad15ba9de9114b278accc3b48804c7338cd6d1435064",
+      "bytes": 110198
+    },
+    {
+      "path": "han-pan-deo/rap/score-02.png",
+      "git_sha": "d97810ff56818839f7bc27b970a029c0642663c2",
+      "sha256": "7d97630f83ca16be2c06a579dcc9a10bb02d3cf4d0af0afeec1a0b57fc5aa48c",
+      "bytes": 116407
+    },
+    {
+      "path": "han-pan-deo/rap/score-03.png",
+      "git_sha": "344540b8dea0dac44eca07faf74c76fbba0dbf3b",
+      "sha256": "eca0a4b8273f49d3c5bb0526393353dd4fb6c0c7c4fdbc468803924dcbd546d8",
+      "bytes": 106908
+    },
+    {
+      "path": "han-pan-deo/rap/score-04.png",
+      "git_sha": "6c464b4d0b8ded554ba5c78b2f05a579e1f6606d",
+      "sha256": "251c67d507a528280547a8fbf70c6e5d76f092798f4e6c4d2f0c752e472e6dae",
+      "bytes": 79824
+    },
+    {
+      "path": "han-pan-deo/rap/score.mid",
+      "git_sha": "a75bf7011310b76a1ce6b0c0c98cbc95ff4c13b4",
+      "sha256": "3e011916040d9691e927cc47f6b6cf5ce72645dd70d7eff0dbbeb9fa659b98e1",
+      "bytes": 6599
+    },
+    {
+      "path": "han-pan-deo/rap/score.musicxml",
+      "git_sha": "f0728a6e75aa24c617d9a80d6ed470dadf08883d",
+      "sha256": "8854a6e616935e7f93cb9627d24643b45fddfb2726951293ffabcaa5369c6a98",
+      "bytes": 125143
+    },
+    {
+      "path": "han-pan-deo/rap/score.pdf",
+      "git_sha": "d8b50008cca007e1291172ad5cf60e8db0dc3f3e",
+      "sha256": "405bb93e420a66c71401fb2478d415068907227a9399d3f5b16ef6518c3a14f4",
+      "bytes": 548370
+    },
+    {
+      "path": "han-pan-deo/source/make_sample.py",
+      "git_sha": "fe5af61a737fcc29ac6d067080617ec2a020b99a",
+      "sha256": "3a64405ff0d556852e074778078895f85e0dc27b28ae1358f0a2cf9d8f84e42c",
+      "bytes": 14365
+    },
+    {
+      "path": "han-pan-deo/source/prepare_local.py",
+      "git_sha": "751273f1cd0ce41321175e1ddff605e9323b9476",
+      "sha256": "04445c1e6cf3e3214c68a90f297b78a126bc58fb34625fabba93d559ef65c9f7",
+      "bytes": 833
+    },
+    {
+      "path": "han-pan-deo/source/verify_audio.py",
+      "git_sha": "3426be6f5c739d336d9bee454ab33e11624dbb2c",
+      "sha256": "ae96c18151a0049e1e936dfee8757ec9c0c6f2d295dbcbf69709b5de67bad0cc",
+      "bytes": 1176
+    },
+    {
+      "path": "han-pan-deo/source/verify_sample.py",
+      "git_sha": "84ff5cf9956e647842cc463a52e41ca73290d510",
+      "sha256": "7d29a90c01a94db57f0c3263d4a3acb1702d78011b01f84b7f32b133e0906bce",
+      "bytes": 3819
+    },
+    {
+      "path": "han-pan-deo/verification.json",
+      "git_sha": "2c189ff6e0df31f44760b5b2bc9b0bd08ac17cb9",
+      "sha256": "987eb593556c38881f4460cde1b95196b63463542e878bdf3c3df6461b566c05",
+      "bytes": 541
+    }
+  ],
+  "remote_head_verified": "21f1ecacc2d9cb20fb62aefbc8d17ced5c77d315"
+}

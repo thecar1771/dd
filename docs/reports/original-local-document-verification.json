@@ -1,0 +1,11 @@
+{
+  "report": "C:\\Users\\theca\\orca\\projects\\OMR\\docs\\reports\\2026-10-29-process-model-training-report.md",
+  "bytes": 38208,
+  "local_links_checked": 17,
+  "epochs_checked": 6,
+  "parameter_count": 3383296,
+  "vocab_size": 695,
+  "report_sha256": "fd98795076de82bf0dc2fd009a44ac833ad09a1e0e06b365f3b681aab0a17f92",
+  "evidence_sha256": "0dddbab136922a4298e60cd7fc28168d971f1fee55fea7bb517654ba7c2eb98a",
+  "checks": "passed; no training or full code test rerun"
+}
