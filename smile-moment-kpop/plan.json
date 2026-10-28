@@ -1,0 +1,206 @@
+{
+  "genre": "kpop_acoustic",
+  "description": "환한 미소와 따뜻한 실내 조명에서 영감을 받은 한국어 노래",
+  "mood": "warm",
+  "language": "ko",
+  "bpm": 88,
+  "bars": 32,
+  "seed": 2026102803,
+  "sections": [
+    {
+      "role": "intro",
+      "start_bar": 0,
+      "bars": 4,
+      "energy": 1,
+      "vocal_mode": "sung",
+      "motif": "i"
+    },
+    {
+      "role": "verse",
+      "start_bar": 4,
+      "bars": 8,
+      "energy": 1,
+      "vocal_mode": "sung",
+      "motif": "a"
+    },
+    {
+      "role": "chorus",
+      "start_bar": 12,
+      "bars": 8,
+      "energy": 3,
+      "vocal_mode": "sung",
+      "motif": "hook"
+    },
+    {
+      "role": "bridge",
+      "start_bar": 20,
+      "bars": 4,
+      "energy": 2,
+      "vocal_mode": "sung",
+      "motif": "c"
+    },
+    {
+      "role": "chorus",
+      "start_bar": 24,
+      "bars": 4,
+      "energy": 3,
+      "vocal_mode": "sung",
+      "motif": "hook"
+    },
+    {
+      "role": "outro",
+      "start_bar": 28,
+      "bars": 4,
+      "energy": 1,
+      "vocal_mode": "sung",
+      "motif": "o"
+    }
+  ],
+  "chords": [
+    {
+      "root": 5,
+      "quality": "major"
+    },
+    {
+      "root": 7,
+      "quality": "major"
+    },
+    {
+      "root": 4,
+      "quality": "minor"
+    },
+    {
+      "root": 9,
+      "quality": "minor"
+    },
+    {
+      "root": 0,
+      "quality": "major"
+    },
+    {
+      "root": 7,
+      "quality": "major"
+    },
+    {
+      "root": 9,
+      "quality": "minor"
+    },
+    {
+      "root": 5,
+      "quality": "major"
+    },
+    {
+      "root": 0,
+      "quality": "major"
+    },
+    {
+      "root": 7,
+      "quality": "major"
+    },
+    {
+      "root": 9,
+      "quality": "minor"
+    },
+    {
+      "root": 5,
+      "quality": "major"
+    },
+    {
+      "root": 5,
+      "quality": "major"
+    },
+    {
+      "root": 7,
+      "quality": "major"
+    },
+    {
+      "root": 4,
+      "quality": "minor"
+    },
+    {
+      "root": 9,
+      "quality": "minor"
+    },
+    {
+      "root": 5,
+      "quality": "major"
+    },
+    {
+      "root": 7,
+      "quality": "major"
+    },
+    {
+      "root": 4,
+      "quality": "minor"
+    },
+    {
+      "root": 9,
+      "quality": "minor"
+    },
+    {
+      "root": 0,
+      "quality": "major"
+    },
+    {
+      "root": 4,
+      "quality": "minor"
+    },
+    {
+      "root": 5,
+      "quality": "major"
+    },
+    {
+      "root": 7,
+      "quality": "major"
+    },
+    {
+      "root": 5,
+      "quality": "major"
+    },
+    {
+      "root": 7,
+      "quality": "major"
+    },
+    {
+      "root": 4,
+      "quality": "minor"
+    },
+    {
+      "root": 9,
+      "quality": "minor"
+    },
+    {
+      "root": 5,
+      "quality": "major"
+    },
+    {
+      "root": 7,
+      "quality": "major"
+    },
+    {
+      "root": 4,
+      "quality": "minor"
+    },
+    {
+      "root": 0,
+      "quality": "major"
+    }
+  ],
+  "parts": [
+    "vocal",
+    "piano_rh",
+    "piano_lh",
+    "bass",
+    "drums"
+  ],
+  "groove": "straight",
+  "texture": "arpeggio",
+  "density": 1,
+  "instruments": {
+    "vocal": "lead_voice",
+    "piano_rh": "acoustic_piano",
+    "piano_lh": "acoustic_piano",
+    "bass": "acoustic_bass",
+    "drums": "brush_kit"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "score": "smile-moment-kpop",
+  "bars": 32,
+  "parts": 5,
+  "validated_part_measures": 160,
+  "exact_xml_event_roundtrip": true,
+  "exact_midi_notes_timing_velocity": true,
+  "no_hanging_notes": true,
+  "whole_authored_lyrics_preserved": true,
+  "lyric_syllables": 125,
+  "chord_symbols": 32,
+  "engraver": "verovio 6.2.1[undefined]",
+  "engraving_options": {
+    "pageWidth": 2100,
+    "pageHeight": 2970,
+    "scale": 50,
+    "header": "auto",
+    "footer": "none",
+    "lyricSize": 4.0,
+    "lyricWordSpace": 4.0,
+    "lyricTopMinMargin": 8.0,
+    "spacingStaff": 20,
+    "spacingSystem": 12
+  },
+  "lyric_layout": {
+    "pages": 7,
+    "syllables": 125,
+    "hyphen_marks": 0,
+    "min_advance_em": 1.325,
+    "crowded_pairs": 0,
+    "min_gap_to_next_staff_em": 2.214,
+    "min_notehead_clearance_em": 0.736
+  },
+  "pdf": {
+    "pages": 7,
+    "a4": true,
+    "rendered_every_pdf_page": true,
+    "pdf_bytes": 377320,
+    "source": "verified Verovio SVG, vector PDF via headless Edge"
+  },
+  "pdf_visual_review": "All 7 pages rendered and visually reviewed, with detailed lyric-page review."
+}

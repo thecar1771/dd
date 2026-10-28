@@ -1,0 +1,112 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 8,
+    "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+  },
+  {
+    "path": "bass.mid",
+    "bytes": 714,
+    "sha256": "8bf46c0daa4e0ee7d56685e76823eae88081930c314432404b7e00a9d1fd6e78"
+  },
+  {
+    "path": "drums.mid",
+    "bytes": 5354,
+    "sha256": "89700cc0fa45d5070ca4850e6a51e071cd3b79a03c73f2e9aaaa96ab6c97d2fb"
+  },
+  {
+    "path": "lyrics.txt",
+    "bytes": 461,
+    "sha256": "20e0146fc6b3b8d067882921bbc3cb0e57e913fe3b4e4297d32f78372f657593"
+  },
+  {
+    "path": "piano_lh.mid",
+    "bytes": 718,
+    "sha256": "547d06e1ef2e6dc9412d9697c51bb39f846abeca9c9fcd535cf09a804928464b"
+  },
+  {
+    "path": "piano_rh.mid",
+    "bytes": 2618,
+    "sha256": "544583e1af361ededa95b58c0cc7283a97b3bdce998c356da705a48cb57c7d43"
+  },
+  {
+    "path": "plan.json",
+    "bytes": 3200,
+    "sha256": "e4f8380375764bc2a9364ab298b95adc3d1977a27d97cd090721c70cbe21270f"
+  },
+  {
+    "path": "provenance.json",
+    "bytes": 18678,
+    "sha256": "ff612ded7fd0c5ecbf3959867763deec494ee274ceee970255978e93f9ded411"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3311,
+    "sha256": "00b7bdf45e6156ad86d91cdebc24007fa8ac66d538e65ca708f90ea4f5da2f99"
+  },
+  {
+    "path": "reproduce.py",
+    "bytes": 9651,
+    "sha256": "486de17444437fef77089c3a7eb1f3bc568b19565eeca3b01826b4ab88578dc0"
+  },
+  {
+    "path": "score-01.png",
+    "bytes": 93094,
+    "sha256": "b3b4da45f219b6af40f0cbf6bee5d2ab653a83a99ca97f11d255d4b867643181"
+  },
+  {
+    "path": "score-02.png",
+    "bytes": 91016,
+    "sha256": "7ae3e1184a97950620b34ff8bbbe4553e07b9ae3150cea33112f5baf45351044"
+  },
+  {
+    "path": "score-03.png",
+    "bytes": 98250,
+    "sha256": "0abb28fbfaca958cc398bde95df1da62bbed7e35bfd37139ea1661072b2863e5"
+  },
+  {
+    "path": "score-04.png",
+    "bytes": 96116,
+    "sha256": "9589b01aa8dbeb3ef2e44db145ac73c4ea3c84a961f90483723c4fce0efe312e"
+  },
+  {
+    "path": "score-05.png",
+    "bytes": 103896,
+    "sha256": "dd6765b22b028bd5cfb870496a18cf2c2ba91e2997a862556d41827f12154348"
+  },
+  {
+    "path": "score-06.png",
+    "bytes": 94211,
+    "sha256": "76245122473909b389e5f4a400896cd0490c1df5ee972242b937417da82679c7"
+  },
+  {
+    "path": "score-07.png",
+    "bytes": 88270,
+    "sha256": "c4ce85dfa5d17f76e357e1ea0db6c3f085a0b94292e82d1c46432f4921fae740"
+  },
+  {
+    "path": "score.mid",
+    "bytes": 11172,
+    "sha256": "1f92bed63e4b26df635572196c65aa88efcce466d73b49a36a5f52c1fa1c1933"
+  },
+  {
+    "path": "score.musicxml",
+    "bytes": 253827,
+    "sha256": "4cbf0d5f73d196423fb2608d76111f91095042b7a01dd3f8457bd08a02776aa8"
+  },
+  {
+    "path": "score.pdf",
+    "bytes": 377320,
+    "sha256": "2a5fd4cfe1f085b11e8e585ad8e48c5f7dc0cd04e3bd7ab3f48e2d65872ab54d"
+  },
+  {
+    "path": "verification.json",
+    "bytes": 1101,
+    "sha256": "e6447294baa55abfc319044f83d8fd502b61bf2b66aafff08969619e1099b536"
+  },
+  {
+    "path": "vocal.mid",
+    "bytes": 2100,
+    "sha256": "85ce5b1dfa5dc8241f0b4d5430520f423987b317bedff92867766d1b78188d3d"
+  }
+]
