@@ -1,0 +1,2795 @@
+{
+  "format": "omr-genre-composition-v1",
+  "plan": {
+    "genre": "ballad",
+    "description": "지치지만 아침마다 출근해 일하며 살아 있음을 느끼고 오늘도 최선을 다하겠다는 마음",
+    "mood": "tired but purposeful and hopeful",
+    "language": "ko",
+    "bpm": 72,
+    "bars": 32,
+    "seed": 2026102903,
+    "sections": [
+      {
+        "role": "intro",
+        "start_bar": 0,
+        "bars": 4,
+        "energy": 1,
+        "vocal_mode": "sung",
+        "motif": "a"
+      },
+      {
+        "role": "verse",
+        "start_bar": 4,
+        "bars": 8,
+        "energy": 1,
+        "vocal_mode": "sung",
+        "motif": "a"
+      },
+      {
+        "role": "prechorus",
+        "start_bar": 12,
+        "bars": 4,
+        "energy": 2,
+        "vocal_mode": "sung",
+        "motif": "a"
+      },
+      {
+        "role": "chorus",
+        "start_bar": 16,
+        "bars": 8,
+        "energy": 3,
+        "vocal_mode": "sung",
+        "motif": "a"
+      },
+      {
+        "role": "chorus",
+        "start_bar": 24,
+        "bars": 4,
+        "energy": 3,
+        "vocal_mode": "sung",
+        "motif": "a"
+      },
+      {
+        "role": "outro",
+        "start_bar": 28,
+        "bars": 4,
+        "energy": 1,
+        "vocal_mode": "sung",
+        "motif": "a"
+      }
+    ],
+    "chords": [
+      {
+        "root": 9,
+        "quality": "minor"
+      },
+      {
+        "root": 5,
+        "quality": "major"
+      },
+      {
+        "root": 0,
+        "quality": "major"
+      },
+      {
+        "root": 7,
+        "quality": "major"
+      },
+      {
+        "root": 9,
+        "quality": "minor"
+      },
+      {
+        "root": 4,
+        "quality": "minor"
+      },
+      {
+        "root": 5,
+        "quality": "major"
+      },
+      {
+        "root": 0,
+        "quality": "major"
+      },
+      {
+        "root": 2,
+        "quality": "minor"
+      },
+      {
+        "root": 9,
+        "quality": "minor"
+      },
+      {
+        "root": 5,
+        "quality": "major"
+      },
+      {
+        "root": 7,
+        "quality": "major"
+      },
+      {
+        "root": 5,
+        "quality": "major"
+      },
+      {
+        "root": 7,
+        "quality": "major"
+      },
+      {
+        "root": 4,
+        "quality": "minor"
+      },
+      {
+        "root": 9,
+        "quality": "minor"
+      },
+      {
+        "root": 0,
+        "quality": "major"
+      },
+      {
+        "root": 7,
+        "quality": "major"
+      },
+      {
+        "root": 9,
+        "quality": "minor"
+      },
+      {
+        "root": 4,
+        "quality": "minor"
+      },
+      {
+        "root": 5,
+        "quality": "major"
+      },
+      {
+        "root": 0,
+        "quality": "major"
+      },
+      {
+        "root": 2,
+        "quality": "minor"
+      },
+      {
+        "root": 7,
+        "quality": "major"
+      },
+      {
+        "root": 0,
+        "quality": "major"
+      },
+      {
+        "root": 7,
+        "quality": "major"
+      },
+      {
+        "root": 5,
+        "quality": "major"
+      },
+      {
+        "root": 7,
+        "quality": "major"
+      },
+      {
+        "root": 9,
+        "quality": "minor"
+      },
+      {
+        "root": 5,
+        "quality": "major"
+      },
+      {
+        "root": 7,
+        "quality": "major"
+      },
+      {
+        "root": 0,
+        "quality": "major"
+      }
+    ],
+    "parts": [
+      "piano_rh",
+      "piano_lh"
+    ],
+    "groove": "straight",
+    "texture": "arpeggio",
+    "density": 1,
+    "instruments": {
+      "piano_rh": "acoustic_piano",
+      "piano_lh": "acoustic_piano"
+    }
+  },
+  "events": [
+    {
+      "bar": 0,
+      "onset": "0",
+      "duration": "2",
+      "part": "piano_lh",
+      "pitch": 45,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 0,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 62,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 0,
+      "onset": "2",
+      "duration": "2",
+      "part": "piano_lh",
+      "pitch": 52,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 0,
+      "onset": "2",
+      "duration": "2",
+      "part": "piano_rh",
+      "pitch": 60,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 1,
+      "onset": "0",
+      "duration": "2",
+      "part": "piano_lh",
+      "pitch": 41,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 1,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 62,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 1,
+      "onset": "2",
+      "duration": "2",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 1,
+      "onset": "2",
+      "duration": "2",
+      "part": "piano_rh",
+      "pitch": 60,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 2,
+      "onset": "0",
+      "duration": "2",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 2,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 60,
+      "velocity": 60,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 2,
+      "onset": "2",
+      "duration": "2",
+      "part": "piano_lh",
+      "pitch": 55,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 2,
+      "onset": "2",
+      "duration": "2",
+      "part": "piano_rh",
+      "pitch": 64,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 3,
+      "onset": "0",
+      "duration": "2",
+      "part": "piano_lh",
+      "pitch": 43,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 3,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 60,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 3,
+      "onset": "2",
+      "duration": "2",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 3,
+      "onset": "2",
+      "duration": "2",
+      "part": "piano_rh",
+      "pitch": 62,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 4,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 45,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 4,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 60,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 4,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 52,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 4,
+      "onset": "1",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 65,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 4,
+      "onset": "3/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 64,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 4,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 4,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 4,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 52,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 4,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 5,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 40,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 5,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 67,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 5,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 47,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 5,
+      "onset": "1",
+      "duration": "2",
+      "part": "piano_rh",
+      "pitch": 64,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 5,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 43,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 5,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 47,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 6,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 41,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 6,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 6,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 6,
+      "onset": "1",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 6,
+      "onset": "3/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 6,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 45,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 6,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 6,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 6,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 7,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 7,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 67,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 7,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 55,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 7,
+      "onset": "1",
+      "duration": "2",
+      "part": "piano_rh",
+      "pitch": 64,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 7,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 52,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 7,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 55,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 8,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 8,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 62,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 8,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 57,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 8,
+      "onset": "1",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 65,
+      "velocity": 76,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 8,
+      "onset": "3/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 64,
+      "velocity": 76,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 8,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 53,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 8,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 76,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 8,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 57,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 8,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 9,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 45,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 9,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 9,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 52,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 9,
+      "onset": "1",
+      "duration": "2",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 9,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 9,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 52,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 10,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 41,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 10,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 65,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 10,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 10,
+      "onset": "1",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 10,
+      "onset": "3/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 64,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 10,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 45,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 10,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 10,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 10,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 11,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 43,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 11,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 67,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 11,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 11,
+      "onset": "1",
+      "duration": "2",
+      "part": "piano_rh",
+      "pitch": 62,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 11,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 47,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 11,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 12,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 41,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 12,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 65,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 12,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 12,
+      "onset": "1",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 65,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 12,
+      "onset": "3/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 12,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 45,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 12,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 12,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 12,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 13,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 43,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 13,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 67,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 13,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 13,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 67,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 13,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 47,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 13,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 71,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 13,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 14,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 40,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 14,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 67,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 14,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 47,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 14,
+      "onset": "1",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 14,
+      "onset": "3/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 14,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 43,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 14,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 67,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 14,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 47,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 14,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 67,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 15,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 45,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 15,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 64,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 15,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 52,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 15,
+      "onset": "1",
+      "duration": "2",
+      "part": "piano_rh",
+      "pitch": 64,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 15,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 15,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 52,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 16,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 16,
+      "onset": "0",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 67,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 16,
+      "onset": "1/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 16,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 55,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 16,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 16,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 52,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 16,
+      "onset": "2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 16,
+      "onset": "5/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 71,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 16,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 55,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 16,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 17,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 43,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 17,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 67,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 17,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 17,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 71,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 17,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 47,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 17,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 71,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 17,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 18,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 45,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 18,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 18,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 52,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 18,
+      "onset": "1",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 18,
+      "onset": "3/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 18,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 18,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 18,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 52,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 18,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 19,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 40,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 19,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 71,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 19,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 47,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 19,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 76,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 19,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 43,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 19,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 71,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 19,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 47,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 20,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 41,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 20,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 20,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 20,
+      "onset": "1",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 20,
+      "onset": "3/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 76,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 20,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 45,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 20,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 20,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 20,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 76,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 21,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 21,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 76,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 21,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 55,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 21,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 21,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 52,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 21,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 21,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 55,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 22,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 22,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 22,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 57,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 22,
+      "onset": "1",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 22,
+      "onset": "3/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 22,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 53,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 22,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 74,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 22,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 57,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 22,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 71,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 23,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 43,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 23,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 67,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 23,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 23,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 71,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 23,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 47,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 23,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 71,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 23,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 24,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 24,
+      "onset": "0",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 24,
+      "onset": "1/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 71,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 24,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 55,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 24,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 74,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 24,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 52,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 24,
+      "onset": "2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 76,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 24,
+      "onset": "5/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 24,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 55,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 24,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 84,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 25,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 43,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 25,
+      "onset": "0",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 74,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 25,
+      "onset": "1/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 74,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 25,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 25,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 25,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 47,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 25,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 74,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 25,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 26,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 41,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 26,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 26,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 26,
+      "onset": "1",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 26,
+      "onset": "3/2",
+      "duration": "1/2",
+      "part": "piano_rh",
+      "pitch": 67,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 26,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 45,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 26,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 26,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 26,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 27,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 43,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 27,
+      "onset": "0",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 74,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 27,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 27,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 74,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 27,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 47,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 27,
+      "onset": "2",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 71,
+      "velocity": 92,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 27,
+      "onset": "3",
+      "duration": "1",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 28,
+      "onset": "0",
+      "duration": "2",
+      "part": "piano_lh",
+      "pitch": 45,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 28,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 69,
+      "velocity": 60,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 28,
+      "onset": "2",
+      "duration": "2",
+      "part": "piano_lh",
+      "pitch": 52,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 28,
+      "onset": "2",
+      "duration": "2",
+      "part": "piano_rh",
+      "pitch": 64,
+      "velocity": 60,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 29,
+      "onset": "0",
+      "duration": "2",
+      "part": "piano_lh",
+      "pitch": 41,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 29,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 65,
+      "velocity": 60,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 29,
+      "onset": "2",
+      "duration": "2",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 29,
+      "onset": "2",
+      "duration": "2",
+      "part": "piano_rh",
+      "pitch": 60,
+      "velocity": 60,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 30,
+      "onset": "0",
+      "duration": "2",
+      "part": "piano_lh",
+      "pitch": 43,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 30,
+      "onset": "1",
+      "duration": "1",
+      "part": "piano_rh",
+      "pitch": 60,
+      "velocity": 60,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 30,
+      "onset": "2",
+      "duration": "2",
+      "part": "piano_lh",
+      "pitch": 50,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 30,
+      "onset": "2",
+      "duration": "2",
+      "part": "piano_rh",
+      "pitch": 62,
+      "velocity": 60,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 31,
+      "onset": "0",
+      "duration": "4",
+      "part": "piano_lh",
+      "pitch": 48,
+      "velocity": 52,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 31,
+      "onset": "0",
+      "duration": "4",
+      "part": "piano_lh",
+      "pitch": 55,
+      "velocity": 44,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    },
+    {
+      "bar": 31,
+      "onset": "0",
+      "duration": "4",
+      "part": "piano_rh",
+      "pitch": 72,
+      "velocity": 68,
+      "lyric": null,
+      "unpitched": false,
+      "syllabic": "single"
+    }
+  ],
+  "metadata": {
+    "title": "오늘도, 나의 자리",
+    "key": "C major",
+    "genre": "piano ballad",
+    "bpm": 72,
+    "seed": 2026102903,
+    "image_sha256": "98468787c5131f593a34a4cefd943eae70132654bcef3c28a7158c04aed08950",
+    "image_not_copied": true,
+    "image_observation": "Office work desk with two monitors, notes and overhead lighting. Screen text and personal details not transcribed.",
+    "user_mood": "지치지만 아침마다 출근해 일하며 살아 있음을 느끼고 오늘도 최선을 다하겠다는 마음",
+    "usage_profile": "research-noncommercial",
+    "checkpoint_sha256": "3ac0e307969432afffe3e7acf6ddb3989d9ff259f54581cb1a52501da7fb0864",
+    "model_condition": {
+      "mode": "major",
+      "style": "romantic"
+    },
+    "note_source": "fresh joint-piano checkpoint inference for melody pitches and velocities",
+    "authored_controls": "original Korean lyrics; 2-bar lyric rhythm; chord progression; LH broken chords; phrase register and contour; final tonic",
+    "training_scope": "existing actual-score piano model; no new training and no claimed learned ballad/lyric/image semantics",
+    "audio_scope": "one acoustic piano playing both melody and accompaniment; no human or synthesized sung vocal",
+    "form_labels": {
+      "0": "Intro",
+      "4": "Verse",
+      "12": "Pre-Chorus",
+      "16": "Chorus",
+      "24": "Final Hook",
+      "28": "Outro"
+    },
+    "generation": [
+      {
+        "bar": 0,
+        "sampled_choices": 6
+      },
+      {
+        "bar": 1,
+        "sampled_choices": 6
+      },
+      {
+        "bar": 2,
+        "sampled_choices": 5
+      },
+      {
+        "bar": 3,
+        "sampled_choices": 5
+      },
+      {
+        "bar": 4,
+        "sampled_choices": 14
+      },
+      {
+        "bar": 5,
+        "sampled_choices": 8
+      },
+      {
+        "bar": 6,
+        "sampled_choices": 14
+      },
+      {
+        "bar": 7,
+        "sampled_choices": 8
+      },
+      {
+        "bar": 8,
+        "sampled_choices": 14
+      },
+      {
+        "bar": 9,
+        "sampled_choices": 7
+      },
+      {
+        "bar": 10,
+        "sampled_choices": 13
+      },
+      {
+        "bar": 11,
+        "sampled_choices": 8
+      },
+      {
+        "bar": 12,
+        "sampled_choices": 13
+      },
+      {
+        "bar": 13,
+        "sampled_choices": 9
+      },
+      {
+        "bar": 14,
+        "sampled_choices": 13
+      },
+      {
+        "bar": 15,
+        "sampled_choices": 8
+      },
+      {
+        "bar": 16,
+        "sampled_choices": 14
+      },
+      {
+        "bar": 17,
+        "sampled_choices": 10
+      },
+      {
+        "bar": 18,
+        "sampled_choices": 13
+      },
+      {
+        "bar": 19,
+        "sampled_choices": 9
+      },
+      {
+        "bar": 20,
+        "sampled_choices": 14
+      },
+      {
+        "bar": 21,
+        "sampled_choices": 10
+      },
+      {
+        "bar": 22,
+        "sampled_choices": 14
+      },
+      {
+        "bar": 23,
+        "sampled_choices": 10
+      },
+      {
+        "bar": 24,
+        "sampled_choices": 16
+      },
+      {
+        "bar": 25,
+        "sampled_choices": 12
+      },
+      {
+        "bar": 26,
+        "sampled_choices": 14
+      },
+      {
+        "bar": 27,
+        "sampled_choices": 9
+      },
+      {
+        "bar": 28,
+        "sampled_choices": 6
+      },
+      {
+        "bar": 29,
+        "sampled_choices": 6
+      },
+      {
+        "bar": 30,
+        "sampled_choices": 5
+      },
+      {
+        "bar": 31,
+        "source": "authored final C-major tonic, melody C5"
+      }
+    ]
+  }
+}

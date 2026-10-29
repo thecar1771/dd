@@ -1,0 +1,12 @@
+{
+  "title": "오늘도, 나의 자리",
+  "bars": 32,
+  "bpm": 72,
+  "music_seconds": 106.66666666666667,
+  "piano_notes": 221,
+  "lyric_lines": 12,
+  "lyric_syllables": 94,
+  "piano_xml_roundtrip": true,
+  "whole_lyrics_preserved": true,
+  "checkpoint_sha256": "3ac0e307969432afffe3e7acf6ddb3989d9ff259f54581cb1a52501da7fb0864"
+}

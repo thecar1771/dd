@@ -33,3 +33,11 @@ MP3에는 랩 목소리 없이 피아노 반주만 포함됩니다. 사진 원�
 ## 처리 프로세스와 모델 학습 보고서
 
 [2026-10-29 상세 보고서](docs/reports/2026-10-29-process-model-training-report.md)에는 처리 흐름, 모델명과 구조, 데이터셋, 학습·평가 결과, 가사 표기 수정, 향후 전략과 근거 기록을 정리했습니다.
+
+## 오늘도, 나의 자리 · 피아노 발라드
+
+지치지만 매일 아침 출근해 일하는 일상에서 살아 있음을 느끼는 마음을 담았습니다. C장조·72 BPM·32마디이며, 피아노가 노래 선율과 반주를 함께 연주합니다.
+
+[곡과 가사 안내](oneuldo-piano-ballad/README.md) · [피아노 MP3](oneuldo-piano-ballad/piano/piano.mp3) · [가사·악보 PDF](oneuldo-piano-ballad/piano/score.pdf) · [전체 ZIP](oneuldo-piano-ballad/oneuldo-piano-ballad.zip)
+
+가창 음성은 포함하지 않았습니다. 기존 피아노 학습 모델과 편곡 조건을 사용했으며, 모델 이용 조건과 생성 내역은 안내 문서에 기록했습니다. 사진 원본은 포함하지 않았습니다.

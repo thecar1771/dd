@@ -1,0 +1,25 @@
+{
+  "source": "C:\\Users\\theca\\orca\\projects\\OMR\\artifacts\\ballad-workday-20261029\\sample\\piano-only\\score.musicxml",
+  "engraver": "verovio 6.2.1[undefined]",
+  "options": {
+    "pageWidth": 2100,
+    "pageHeight": 2970,
+    "scale": 50,
+    "header": "auto",
+    "footer": "none",
+    "lyricSize": 4.0,
+    "lyricWordSpace": 4.0,
+    "lyricTopMinMargin": 8.0,
+    "spacingStaff": 20,
+    "spacingSystem": 12
+  },
+  "layout": {
+    "pages": 2,
+    "syllables": 0,
+    "hyphen_marks": 0,
+    "min_advance_em": null,
+    "crowded_pairs": 0,
+    "min_gap_to_next_staff_em": null,
+    "min_notehead_clearance_em": null
+  }
+}

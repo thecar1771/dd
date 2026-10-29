@@ -1,0 +1,19 @@
+{
+  "bars": 32,
+  "bpm": 72,
+  "music_seconds": 106.66666666666667,
+  "piano_notes": 221,
+  "lyric_lines": 12,
+  "lyric_syllables": 94,
+  "melody_range": [
+    60,
+    76
+  ],
+  "exact_xml_notes_timing": true,
+  "exact_midi_notes_timing_velocity": true,
+  "complete_lyrics": true,
+  "korean_hyphen_display": "single",
+  "no_hanging_notes": true,
+  "audio_scope": "piano playing melody and accompaniment; no vocal audio",
+  "checkpoint_sha256": "3ac0e307969432afffe3e7acf6ddb3989d9ff259f54581cb1a52501da7fb0864"
+}

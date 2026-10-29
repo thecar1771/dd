@@ -1,0 +1,12 @@
+{
+  "seconds": 109.66598639455782,
+  "sample_rate": 44100,
+  "channels": 2,
+  "peak_dbfs": -9.962,
+  "rms_dbfs": -28.413,
+  "clipped_samples": 0,
+  "mp3_sha256": "2dd8511a1f98c4e7c42963586c72a5d8ff73d5b9e5ee2eecb1253bf443b703a7",
+  "soundfont_sha256": "c5378b62028c920cb11e4803327983fee2f2cdff5dc89c708e39da417e51c854",
+  "synthesis": "TinySoundFont + TimGM6mb acoustic grand piano",
+  "scope": "piano melody and accompaniment only; no sung voice; technical verification, not a listening score"
+}
