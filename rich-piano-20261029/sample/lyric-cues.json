@@ -1,0 +1,86 @@
+[
+  {
+    "section": "Verse",
+    "bar": 4,
+    "start_seconds": 13.333333333333334,
+    "end_seconds": 20.0,
+    "text": "무거운 눈을 뜨고"
+  },
+  {
+    "section": "Verse",
+    "bar": 6,
+    "start_seconds": 20.0,
+    "end_seconds": 26.666666666666668,
+    "text": "익숙한 길을 걸어"
+  },
+  {
+    "section": "Verse",
+    "bar": 8,
+    "start_seconds": 26.666666666666668,
+    "end_seconds": 33.333333333333336,
+    "text": "책상 위 켜진 불빛"
+  },
+  {
+    "section": "Verse",
+    "bar": 10,
+    "start_seconds": 33.333333333333336,
+    "end_seconds": 40.0,
+    "text": "나를 다시 깨우네"
+  },
+  {
+    "section": "Pre-Chorus",
+    "bar": 12,
+    "start_seconds": 40.0,
+    "end_seconds": 46.666666666666664,
+    "text": "지친 마음 한켠에도"
+  },
+  {
+    "section": "Pre-Chorus",
+    "bar": 14,
+    "start_seconds": 46.666666666666664,
+    "end_seconds": 53.333333333333336,
+    "text": "작은 숨이 이어져"
+  },
+  {
+    "section": "Chorus",
+    "bar": 16,
+    "start_seconds": 53.333333333333336,
+    "end_seconds": 60.0,
+    "text": "오늘도 나의 자리에서"
+  },
+  {
+    "section": "Chorus",
+    "bar": 18,
+    "start_seconds": 60.0,
+    "end_seconds": 66.66666666666667,
+    "text": "살아 있음을 느껴요"
+  },
+  {
+    "section": "Chorus",
+    "bar": 20,
+    "start_seconds": 66.66666666666667,
+    "end_seconds": 73.33333333333333,
+    "text": "서툴러도 괜찮아요"
+  },
+  {
+    "section": "Chorus",
+    "bar": 22,
+    "start_seconds": 73.33333333333333,
+    "end_seconds": 80.0,
+    "text": "내 하루를 다할게요"
+  },
+  {
+    "section": "Final Hook",
+    "bar": 24,
+    "start_seconds": 80.0,
+    "end_seconds": 86.66666666666667,
+    "text": "오늘도 최선을 다할게요"
+  },
+  {
+    "section": "Final Hook",
+    "bar": 26,
+    "start_seconds": 86.66666666666667,
+    "end_seconds": 93.33333333333333,
+    "text": "내일의 나를 만나러"
+  }
+]

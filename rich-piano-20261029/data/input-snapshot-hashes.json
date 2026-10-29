@@ -1,0 +1,26 @@
+{
+  "candidates.jsonl": {
+    "bytes": 15765957,
+    "sha256": "9f8f9cf07c59ee5b017f1305c9f2b5cce86b8bf5f7fb5f2e457add069bf14b23"
+  },
+  "audit/candidates-summary.json": {
+    "bytes": 153233,
+    "sha256": "b6564a4b3831dcfb32ff50b1986be33e89f90931caeeff6cfd32e473dab29a2d"
+  },
+  "rows/pieces-commercial-compatible.jsonl.gz": {
+    "bytes": 3523445,
+    "sha256": "311ba35c0e571bda84b823d0b11ce277c7a15d11397c6a39cd18da3947ab66cc"
+  },
+  "rows/pieces-research-noncommercial.jsonl.gz": {
+    "bytes": 218660,
+    "sha256": "0145fc0b0cb666afc2cd9e9ae5bef5bb1b7363271531d88ac0beaad55c19af22"
+  },
+  "rows/row-failures.json": {
+    "bytes": 4965,
+    "sha256": "cfde2d09d579c8ef11597f4614d62f407fdbc74e8a0b0453bcdedfca27eb17c6"
+  },
+  "rows/rows-summary.json": {
+    "bytes": 610,
+    "sha256": "2a4b7996c4474f11ac1e919d183bce1d149d3f2610408a21e04a922264a27f41"
+  }
+}

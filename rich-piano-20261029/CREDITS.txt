@@ -1,0 +1,10 @@
+Salamander Grand Piano — Alexander Holm, CC BY 3.0.
+Source: https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html
+License: https://creativecommons.org/licenses/by/3.0/
+Yamaha C5 piano samples; this package distributes the rendered original piece, not the large SoundFont.
+
+NIFC score encodings: The Fryderyk Chopin Institute, CC BY 4.0; individual attribution is retained in data records.
+Sapp Joplin/Haydn encodings: CC BY-NC-SA 4.0; individual attribution is retained in data records.
+Mutopia/ASAP/DCML: original per-record licenses and source URLs are retained.
+Mixed model/data bundle is marked research-noncommercial under this project's usage policy.
+TinySoundFont and TinyMidiLoader: Bernhard Schelling and contributors, MIT; https://github.com/schellingb/TinySoundFont

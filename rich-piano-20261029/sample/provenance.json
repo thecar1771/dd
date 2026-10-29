@@ -1,0 +1,576 @@
+{
+  "title": "오늘도, 나의 자리 · 피아노 확장편곡",
+  "key": "C major",
+  "genre": "piano ballad",
+  "bpm": 72,
+  "seed": 2026102911,
+  "image_sha256": "98468787c5131f593a34a4cefd943eae70132654bcef3c28a7158c04aed08950",
+  "image_not_copied": true,
+  "image_observation": "Office work desk with two monitors, notes and overhead lighting. Screen text and personal details not transcribed.",
+  "user_mood": "지치지만 아침마다 출근해 일하며 살아 있음을 느끼고 오늘도 최선을 다하겠다는 마음",
+  "usage_profile": "research-noncommercial",
+  "checkpoint_sha256": "36ed6afa62bf537f44364ccfe387a60377780f0e08810e2aa37f08b10deb54f7",
+  "model_condition": {
+    "mode": "major",
+    "style": "romantic"
+  },
+  "note_source": "original lead retained; new learned inner voicings and LH note choices",
+  "authored_controls": "section accompaniment rhythms, chord extensions, voice ranges, melody prominence and pedal/performance controls",
+  "training_scope": "new texture-conditioned actual-score piano model; score velocities excluded as expression targets",
+  "audio_scope": "piano only; score-exact and separately labelled expressive performance MIDI",
+  "form_labels": {
+    "0": "Intro",
+    "4": "Verse",
+    "12": "Pre-Chorus",
+    "16": "Chorus",
+    "24": "Final Hook",
+    "28": "Outro"
+  },
+  "generation": [
+    {
+      "bar": 0,
+      "model_pitch_choices": 1,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "other"
+      }
+    },
+    {
+      "bar": 1,
+      "model_pitch_choices": 3,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 2,
+      "model_pitch_choices": 3,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 3,
+      "model_pitch_choices": 2,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      }
+    },
+    {
+      "bar": 4,
+      "model_pitch_choices": 6,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      }
+    },
+    {
+      "bar": 5,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      }
+    },
+    {
+      "bar": 6,
+      "model_pitch_choices": 7,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 7,
+      "model_pitch_choices": 7,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 8,
+      "model_pitch_choices": 7,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      }
+    },
+    {
+      "bar": 9,
+      "model_pitch_choices": 6,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      }
+    },
+    {
+      "bar": 10,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 11,
+      "model_pitch_choices": 7,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 12,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 13,
+      "model_pitch_choices": 6,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 14,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      }
+    },
+    {
+      "bar": 15,
+      "model_pitch_choices": 7,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      }
+    },
+    {
+      "bar": 16,
+      "model_pitch_choices": 10,
+      "skipped_unplayable_slots": 1,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 17,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 1,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 18,
+      "model_pitch_choices": 9,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      }
+    },
+    {
+      "bar": 19,
+      "model_pitch_choices": 9,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      }
+    },
+    {
+      "bar": 20,
+      "model_pitch_choices": 10,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 21,
+      "model_pitch_choices": 10,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 22,
+      "model_pitch_choices": 10,
+      "skipped_unplayable_slots": 2,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      }
+    },
+    {
+      "bar": 23,
+      "model_pitch_choices": 9,
+      "skipped_unplayable_slots": 2,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 24,
+      "model_pitch_choices": 10,
+      "skipped_unplayable_slots": 1,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 25,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 1,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 26,
+      "model_pitch_choices": 10,
+      "skipped_unplayable_slots": 1,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 27,
+      "model_pitch_choices": 9,
+      "skipped_unplayable_slots": 1,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 28,
+      "model_pitch_choices": 1,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      }
+    },
+    {
+      "bar": 29,
+      "model_pitch_choices": 3,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      }
+    },
+    {
+      "bar": 30,
+      "model_pitch_choices": 1,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      }
+    },
+    {
+      "bar": 31,
+      "model_pitch_choices": 2,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      }
+    }
+  ],
+  "model_format": "omr-rich-piano-checkpoint-v1"
+}

@@ -1,0 +1,82 @@
+{
+  "commit": "d3a00fe3299476b7a55fa8ede699751eb099cb0a",
+  "branch": "thecar1771/omr-genre-bootstrap",
+  "files": [
+    {
+      "path": "docs/research/2026-10-29-rich-piano-corpus-audit.md",
+      "sha256": "b9b1d1fe4d536d635618635d77e11a0e0ef9a889ec211faa83d77b3523139cfd"
+    },
+    {
+      "path": "docs/research/2026-10-29-rich-piano-usage.md",
+      "sha256": "206c1bb3cac2df990364a951ad1dd29b1614f6d9d24bdd339ce0f053342d4e35"
+    },
+    {
+      "path": "docs/superpowers/plans/2026-10-29-rich-piano-plan.md",
+      "sha256": "89a4f4e5871930c0494d1762641f041fbe6220a16455790f93e1993d55cd0afa"
+    },
+    {
+      "path": "docs/superpowers/specs/2026-10-29-rich-piano-design.md",
+      "sha256": "67159f69d76ff99923d8633961b6d3adc6d73091483434d7019c8ff8599a6b05"
+    },
+    {
+      "path": "docs/worklog/2026-10-29-rich-piano-ledger.md",
+      "sha256": "d4bf3b58bf5594ce9b5130a19f34b7783b5b5f67101e22c81402d913f3b1c4c3"
+    },
+    {
+      "path": "scripts/collect_rich_piano.py",
+      "sha256": "855e152b4ef6c3b047beceaf33291187c1bceb1e8d60704a37337dad9b42061f"
+    },
+    {
+      "path": "scripts/generate_rich_piano_ballad.py",
+      "sha256": "660359f75db0811043be7e5341b45a62240225d64299ca5656df0c7e52dac467"
+    },
+    {
+      "path": "scripts/make_piano_performance.py",
+      "sha256": "3a905a8b08499fc51f52c481bddd9a6b7e3c0cec21f4b8b5aa78b406afbe1dd5"
+    },
+    {
+      "path": "scripts/verify_rich_piano_sample.py",
+      "sha256": "87d46b458992bbec78b5978205df56a8c19bd61259778a8ec327c6862038f2e0"
+    },
+    {
+      "path": "src/omr/piano_rich/__init__.py",
+      "sha256": "7997f0886190b093673bd2ee7022512c9c468e39643cdef08a0e50614d26890b"
+    },
+    {
+      "path": "src/omr/piano_rich/data.py",
+      "sha256": "303170a76feacbe5ab0cb114891a86c40a2f7b2f992ca9e33469fb4d466a743a"
+    },
+    {
+      "path": "src/omr/piano_rich/tokenizer.py",
+      "sha256": "056c8a1d04f5a8605491728454d131b2d666ec65366066e235ad7907026b0f0d"
+    },
+    {
+      "path": "src/omr/piano_rich/train.py",
+      "sha256": "32fd0c5a0d8f7e3e271cab9f08b60bf9d1cf6a0741be445ff0704e326c151ca0"
+    },
+    {
+      "path": "tests/piano_rich/__init__.py",
+      "sha256": "948d301526b90747c45ae6f2d7b7db8bc94bd63d991556dd771f173b51128101"
+    },
+    {
+      "path": "tests/piano_rich/test_data.py",
+      "sha256": "ecb8bebec5e5ee36b5437c8d7993b9216827be4370a19fb079325f092d934c01"
+    },
+    {
+      "path": "tests/piano_rich/test_kern_parser.py",
+      "sha256": "a4180c53216f1e787207f57e1c0f395874304487e9ac22268708655514c017a6"
+    },
+    {
+      "path": "tests/piano_rich/test_performance.py",
+      "sha256": "7f6353e3576b75c690f7f0a6f9b7627b4a46c5d3b893e6f2bd04e8c290f519c0"
+    },
+    {
+      "path": "tests/piano_rich/test_tokenizer.py",
+      "sha256": "1bc89244108f29d873813801f9f388c7eecf1b05bbabf73c87fe25131db5fea8"
+    },
+    {
+      "path": "tests/piano_rich/test_train.py",
+      "sha256": "7ad0984c9d677cf40ed6c3d4f46e125737e6ff66f319274a7fa790443c21cea2"
+    }
+  ]
+}

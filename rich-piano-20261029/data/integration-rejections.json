@@ -1,0 +1,926 @@
+[
+  {
+    "id": "nifc_chopin_first_editions:001-1-BRZ",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:004-1-HAc-001",
+    "reason": "AssertionError: ('orphan_tie_continuations', 6)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:004-1-HAc-002",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:004-1-HAc-003",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:004-1-HAc-004",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:005-1-SC",
+    "reason": "AssertionError: ('orphan_tie_continuations', 5)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:009-1-KI-001",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:010_7-12-1-KI-011",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:012-1c-BH-001",
+    "reason": "AssertionError: ('orphan_tie_continuations', 16)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:015-1a-BH-001",
+    "reason": "AssertionError: ('underfull_voice_measures', 2)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:015-1a-BH-002",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:016-1-PL",
+    "reason": "AssertionError: ('orphan_tie_continuations', 9)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:019-1-PE",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:026-1-BH-001",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:026-1-BH-002",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:027-1-BH-002",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:029-1-BH",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:032-1-W-001",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:034_1-1-BH",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:036-1-BH-001",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:037-1-BH-001",
+    "reason": "AssertionError: ('orphan_tie_continuations', 11)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:037-1-BH-002",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:042-1-BH",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:043-1-SCHU",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:044-1a-Sm",
+    "reason": "AssertionError: ('orphan_tie_continuations', 13)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:048_2-1a-Sm-002",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:051-1-HO",
+    "reason": "AssertionError: ('orphan_tie_continuations', 15)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:055-1-BH-001",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:058-1-BH-001",
+    "reason": "AssertionError: ('orphan_tie_continuations', 19)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:058-1-BH-003",
+    "reason": "AssertionError: ('orphan_tie_continuations', 5)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:058-1-BH-004",
+    "reason": "AssertionError: ('orphan_tie_continuations', 11)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:060-1-BH",
+    "reason": "AssertionError: ('orphan_tie_continuations', 7)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:061-1-BR",
+    "reason": "AssertionError: ('orphan_tie_continuations', 10)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:062-1-BH-002",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:064_3-1a-BR-003",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:070-1-MEIf-002",
+    "reason": "AssertionError: ('orphan_tie_continuations', 5)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:072-1-MEIf-002-marche-funebre",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:073-1x-Sam-Secondo",
+    "reason": "AssertionError: ('orphan_tie_continuations', 5)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:VGNA-1-HAc",
+    "reason": "AssertionError: ('orphan_tie_continuations', 22)"
+  },
+  {
+    "id": "nifc_chopin_first_editions:WaltzEm-1b-SCH",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-kj--bj-muz-1603-iii-1--001-001_zelenski-wladyslaw--sechs-charakterstucke-op-17-no-1-praeludium",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-kj--bj-muz-1603-iii-1--001-002_zelenski-wladyslaw--sechs-charakterstucke-op-17-no-2-promenade",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-kj--bj-muz-1603-iii-1--001-003_zelenski-wladyslaw--sechs-charakterstucke-op-17-no-3-tanz",
+    "reason": "AssertionError: ('orphan_tie_continuations', 6)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-kj--bj-muz-1603-iii-2--001-004_zelenski-wladyslaw--sechs-charakterstucke-op-17-no-4-canon",
+    "reason": "AssertionError: ('orphan_tie_continuations', 12)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-kj--bj-muz-1603-iii-2--001-006_zelenski-wladyslaw--sechs-charakterstucke-op-17-no-6-abschied",
+    "reason": "AssertionError: ('orphan_tie_continuations', 10)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-kj--bj-muz-345-iii--001-001_sowinski-wojciech--les-charmes-de-la-campagne-op-11-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-kj--bj-muz-345-iii--001-002_sowinski-wojciech--les-charmes-de-la-campagne-op-11-no-2",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-kozmzk--mzk-m-188_kraszewski-jozef-ignacy--fantazyjka-z-ulubionej-spiewki-na-fortepian",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-lzu--m-13517--001_wieniawski-jozef--piesn-bez-slow",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--bj-muz-8812-iii--001-001_zelenski-wladyslaw--sonate-op-20-allegro-con-moto",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--bj-muz-8812-iii--001-002_zelenski-wladyslaw--sonate-op-20-adagio",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--bj-muz-8812-iii--001-003_zelenski-wladyslaw--sonate-op-20-scherzo",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-118-771--002_badarzewska-tekla--vision",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-125-889_zelenski-wladyslaw--grande-polonaise-op-45",
+    "reason": "AssertionError: ('orphan_tie_continuations', 10)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-127-018-cim_katski-apolinary--wanda-mazour-op-10",
+    "reason": "AssertionError: ('orphan_tie_continuations', 8)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-161-977--001-001_zelenski-wladyslaw--humoreske-und-gavotte-op-18-humoreske",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-163-891--001-002_zelenski-wladyslaw--deux-morceaux-de-salon-op-11-nocturne",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-62-778_zelenski-wladyslaw--moments-d-un-carnaval-op-52",
+    "reason": "AssertionError: ('orphan_tie_continuations', 6)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-63-986--001-002_zelenski-wladyslaw--deux-mazourkas-op-31-ii",
+    "reason": "AssertionError: ('orphan_tie_continuations', 8)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-66-282_zelenski-wladyslaw--grand-scherzo-de-concert-op-35",
+    "reason": "AssertionError: ('orphan_tie_continuations', 16)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-72-534--001-004_zarebski-juliusz--etrennes-op-27-conte",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-72-560_zelenski-wladyslaw--marsz-uroczysty-op-44",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-72-689-cim_katski-apolinary--mazur-sielankowy-op-4",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-82-506_zelenski-wladyslaw--oda-do-mlodosci-op-51",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-89-502--001-001_zelenski-wladyslaw--z-kantaty-jubileuszowej-do-slow-deotymy-elegia",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-89-502--001-002_zelenski-wladyslaw--z-kantaty-jubileuszowej-do-slow-deotymy-polonez",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-94-168_zelenski-wladyslaw--reverie-op-48",
+    "reason": "AssertionError: ('orphan_tie_continuations', 7)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iv-141-999-cim--001-001_zelenski-wladyslaw--sonata-op-5-allegro-deciso",
+    "reason": "AssertionError: ('orphan_tie_continuations', 9)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iv-141-999-cim--001-003_zelenski-wladyslaw--sonata-op-5-rondo",
+    "reason": "AssertionError: ('orphan_tie_continuations', 6)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--2367-n_mikuli-karol--mazourka-op-4",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--2370-n_mikuli-karol--mazourka-op-11",
+    "reason": "AssertionError: ('orphan_tie_continuations', 5)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--2371-n_mikuli-karol--valse-op-20",
+    "reason": "AssertionError: ('orphan_tie_continuations', 6)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--2372-n_mikuli-karol--reverie-op-9",
+    "reason": "AssertionError: ('orphan_tie_continuations', 23)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--3111-n--001-001_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-d-extension",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--3111-n--001-004_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-style-lie",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--3111-n--001-005_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-pour-la-main-gauche-seule",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--3125-n--001-001_wieniawski-jozef--24-etudes-19me-etude",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--3125-n--001-003_wieniawski-jozef--24-etudes-21me-etude",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--494-n_grabowski-stanislaw--wiosna-na-wsi",
+    "reason": "AssertionError: ('orphan_tie_continuations', 6)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--6432-n--011_nowakowski-jozef--walc-no-11",
+    "reason": "AssertionError: ('underfull_voice_measures', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--6576-n--001_nowakowski-jozef--dumka-jichaw-kozak-za-dunaj",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--6735-n--001-001_klemczynski-julian--fantaisie-brillante-sur-la-romance-du-saule-introduzione",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--6735-n--001-002_klemczynski-julian--fantaisie-brillante-sur-la-romance-du-saule-romanza",
+    "reason": "AssertionError: ('orphan_tie_continuations', 8)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--6810-n_zientarski-romuald-teodor--la-priere-du-soir",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--6819-n_katski-antoni--reveil-du-lion-op-115",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--1223-fp-3858--001-002_szymanowski-karol--fantaisie-op-14-ii",
+    "reason": "AssertionError: ('orphan_tie_continuations', 6)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--1349-fp-4574_stojowski-zygmunt--deux-caprices-op-16-no-2",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--1351-fp-4576--001-001_stojowski-zygmunt--vier-stucke-quatre-morceaux-op-26-1-melodie",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--1351-fp-4576--001-002_stojowski-zygmunt--vier-stucke-quatre-morceaux-op-26-2-in-tempo-di-minuetto",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--1351-fp-4576--001-003_stojowski-zygmunt--vier-stucke-quatre-morceaux-op-26-3-chant-d-amour",
+    "reason": "AssertionError: ('orphan_tie_continuations', 8)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--1351-fp-4576--001-004_stojowski-zygmunt--vier-stucke-quatre-morceaux-op-26-4-theme-cracovien-varie",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--1587-fp-5523_stojowski-zygmunt--doumka-op-17-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--1690-fp-5848_statkowski-roman--capriccio-op-16-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--1691-fp-5849_stojowski-zygmunt--arabesque-op-19-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--1813-fp-6225_stojowski-zygmunt--legende-op-8-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 14)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--1818-fp-9230_stojowski-zygmunt--danses-humoresques-op-12-no-6-cosaque-fantastique",
+    "reason": "AssertionError: ('orphan_tie_continuations', 29)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--1894-fp-6308_moszkowski-moritz--pres-du-berceau-op-58-no-3",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2090-fp-7100_moszkowski-moritz--laurin-valse-coquette",
+    "reason": "AssertionError: ('orphan_tie_continuations', 5)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2098-fp-7112--001-002_moszkowski-moritz--romanze-und-scherzo-op-62-scherzo",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2099-fp-7103--001-001_moszkowski-moritz--bagatellen-op-63-i",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2099-fp-7103--001-002_moszkowski-moritz--bagatellen-op-63-ii",
+    "reason": "AssertionError: ('orphan_tie_continuations', 5)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2101-fp-7102_moszkowski-moritz--esquisse-venitienne-op-73-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2203-fp-7655_moszkowski-moritz--aus-aller-herren-landern-ii-deutsch",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2204-fp-7656_moszkowski-moritz--effusion-op-58-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2205-fp-7657_moszkowski-moritz--ii-consolation-op-58",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2324-fp-8063_joteyko-tadeusz--fantazja-goralska-op-52",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2331-fp-8070_statkowski-roman--toccata-op-33",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2342-fp-8092_rozycki-ludomir--fantaisie-op-11",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2347-fp-8097--001-002_statkowski-roman--six-preludes-op-37-v",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2919-fp-9953--001-004_moszkowski-moritz--funf-clavierstucke-op-18-4-marcia",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2919-fp-9953--001-005_moszkowski-moritz--funf-clavierstucke-op-18-5-polonaise",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--557--001-001_stojowski-zygmunt--romantische-stucke-op-25-1-gestandniss",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--557--001-002_stojowski-zygmunt--romantische-stucke-op-25-2-en-valsant",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--557--001-003_stojowski-zygmunt--romantische-stucke-op-25-3-idylle",
+    "reason": "AssertionError: ('orphan_tie_continuations', 5)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--557--001-004_stojowski-zygmunt--romantische-stucke-op-25-4-barcarolle",
+    "reason": "AssertionError: ('orphan_tie_continuations', 8)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-15-832--001-003_statkowski-roman--six-preludes-op-37-iii",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-17-568--001-001_moszkowski-moritz--trois-morceaux-poetiques-op-42-i-romance",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-17-568--001-002_moszkowski-moritz--trois-morceaux-poetiques-op-42-ii-siciliano",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-22-951_moszkowski-moritz--en-automne-op-36-no-4",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-22-952_moszkowski-moritz--entr-acte-op-56-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-676-69_moszkowski-moritz--une-plaisanterie-musicale-theme-varie-a-la-5-maitres",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-690_statkowski-roman--oberek-op-22-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-869-69--001-002_moszkowski-moritz--skizzen-op-10-ii-thema",
+    "reason": "AssertionError: ('orphan_tie_continuations', 6)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-869-69--001-004_moszkowski-moritz--skizzen-op-10-iv-impromptu-uber-sachs",
+    "reason": "AssertionError: ('orphan_tie_continuations', 30)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-872-69--001-001_moszkowski-moritz--boabdil-balletmusik-malaguena",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-872-69--001-002_moszkowski-moritz--boabdil-balletmusik-scherzo-valse",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-873-69--001-003_moszkowski-moritz--sechs-phantasiestucke-op-52-iii-zwiegesang",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-873-69--001-004_moszkowski-moritz--sechs-phantasiestucke-op-52-die-jongleurin",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-875-69--001-002_moszkowski-moritz--fruhling-op-57-v-liebeswalzer",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-878-69--001-002_moszkowski-moritz--suite-pour-piano-ii-air",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-879-69--001-001_moszkowski-moritz--sechs-phantasiestucke-op-52-v-maskenscherz-und-demaskirung",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-880-69_moszkowski-moritz--polonaise-op-17-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-884-69--001-002_moszkowski-moritz--pianoforte-stucke-ii-melodie",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-889-69_moszkowski-moritz--piece-rustique-op-36-no-8",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-891-69_moszkowski-moritz--waltzer-op-17-no-3",
+    "reason": "AssertionError: ('orphan_tie_continuations', 18)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-892-69_moszkowski-moritz--menuett-op-17-no-2",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-893-69_moszkowski-moritz--guitarre-op-45-no-2",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-894-69_moszkowski-moritz--polonaise-op-45-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 9)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-899-69--001-001_moszkowski-moritz--polonaise-volkstanze-op-55-i-mazurka",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-899-69--001-004_moszkowski-moritz--polonaise-volkstanze-op-55-iv-krakowiak",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-902-69--001-001_moszkowski-moritz--huit-morceaux-caracteristiques-op-36-piece-rococo",
+    "reason": "AssertionError: ('orphan_tie_continuations', 6)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-902-69--001-002_moszkowski-moritz--huit-morceaux-caracteristiques-op-36-reverie",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-902-69--001-003_moszkowski-moritz--huit-morceaux-caracteristiques-op-36-expansion",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-907_moszkowski-moritz--offrande-op-87-no-2",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-909-69_moszkowski-moritz--valse-tourbillon-op-89-no-5",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-910-69_moszkowski-moritz--valse-tendre-op-89-no-4",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-915-69_moszkowski-moritz--caprice-op-75-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-925-69_moszkowski-moritz--danse-des-elfes-du-ballet-laurin-op-53-no-2",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-928-69_moszkowski-moritz--habanera-op-65-no-3",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-25-065-69_statkowski-roman--melodie-op-12-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-25-068-69_statkowski-roman--valse-caprice-op-5-no-2",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-25-069-69_statkowski-roman--valse-flottante-op-5-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 6)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-25-070-69--001-002_statkowski-roman--trois-mazurkas-op-2-mazurka-no-2",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-26-594-71--001-001_scharwenka-xaver--polnische-nationaltanze-op-9-i",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-26-594-71--001-003_scharwenka-xaver--polnische-nationaltanze-op-9-iii",
+    "reason": "AssertionError: ('underfull_voice_measures', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-26-893-72_moszkowski-moritz--mazurka-op-15",
+    "reason": "AssertionError: ('orphan_tie_continuations', 30)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-29-181-75_scharwenka-philipp--les-patineurs-op-64-n-8",
+    "reason": "AssertionError: ('orphan_tie_continuations', 6)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-30-611-78_rozycki-ludomir--balladyna-op-25",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-31-087-79_statkowski-roman--all-antico-op-16-no-4",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-32-690-81_moszkowski-moritz--resignation-op-58-no-8",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-33-611-83_rozycki-ludomir--laguna-op-36",
+    "reason": "AssertionError: ('orphan_tie_continuations', 17)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-33-692-83_moszkowski-moritz--i-polonaise-op-11",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-34-532-84_moszkowski-moritz--bourree-op-38-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 5)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-40-963-95_karasinski-adam-jozef--tango-messal",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-41-567-96_scharwenka-philipp--polonaise-pathetique-op-12",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--iii-40-856-1--001-001_wysocki-kasper-napoleon--quatre-krakowiaks-op-1-krakowiak-no-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--iii-40-856-1--001-004_wysocki-kasper-napoleon--quatre-krakowiaks-op-1-krakowiak-no-4",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--iii-41-493_gold-artur--colorado-tango",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--iii-41-579_karasinski-adam-jozef--salut-a-l-ukraine",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--iii-41-637-4--001-002_joteyko-tadeusz--sonatine-h-moll-op-19-no-2-ii-ballade",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--iii-41-637-4--001-003_joteyko-tadeusz--sonatine-h-moll-op-19-no-2-iii-rondo-alla-mazurka",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--iii-41-944-2_mlynarski-emil--trois-morceaux-pour-piano-op-5-no-2-nocturne",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--iii-41-976--001-008_kurpinski-karol-kazimierz--wesele-w-ojcowie-andantino",
+    "reason": "AssertionError: ('orphan_tie_continuations', 6)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--iii-41-976--001-009_kurpinski-karol-kazimierz--wesele-w-ojcowie-allo-krakowiak",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--mus-iii-40-225--001-001_fitelberg-grzegorz--preludyum-i-piesn-op-19-preludyum",
+    "reason": "AssertionError: ('orphan_tie_continuations', 21)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--mus-iii-40-532--001-001_grossman-ludwik--dwa-spiewy-znane-op-31-warszawianka",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--mus-iii-40-543_katski-antoni--caprice-heroique-reveil-du-lion-op-115",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-1226--004_lodwigowski-edward-stefan--runia-szukala-o-chlodzie",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-1226--011_lodwigowski-edward-stefan--moj-tatulo-mawial-sobie",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-1227--016_lodwigowski-edward-stefan--dalibog-ze-powiem-mamie",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-1227--018_lodwigowski-edward-stefan--zacni-sasiedzi",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-1227--020_lodwigowski-edward-stefan--stala-nam-sie-nowina",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-132-n_noskowski-zygmunt--fuga-realna",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-143-m_moniuszko-stanislaw--vilanella",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2033_smietanski-emil-wladyslaw--czigany-fantasie-op-27",
+    "reason": "AssertionError: ('underfull_voice_measures', 9)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2036--pc0_smietanski-emil-wladyslaw--3me-scherzo-pc0",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2038_smietanski-emil-wladyslaw--sonate-pour-piano",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2039--001_smietanski-emil-wladyslaw--doppelfuge",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2132_wysocki-kasper-napoleon--marsz",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2304_troschel-wilhelm--walec-oryginalny",
+    "reason": "AssertionError: ('underfull_voice_measures', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2506_hertz-michal--marsz-uroczysty",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2513_hertz-michal--scherzo",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2519--001_hertz-michal--kanon-1",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2527_hertz-michal--gawot",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2548--001-002_hertz-michal--jak-wam-sie-podoba-no-2",
+    "reason": "AssertionError: ('orphan_tie_continuations', 7)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2548--001-011_hertz-michal--jak-wam-sie-podoba-no-11",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2548--001-012_hertz-michal--jak-wam-sie-podoba-no-12",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2550--001-001_hertz-michal--szklana-gora-andante-religioso",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2571_hertz-michal--syrena-entree-des-pacheurs",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--n42961_grossman-ludwik--am-landhaus-bei-den-larchenbaumen-w-modrzewiowy-dworku",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--n43036--001-001_szymanowski-karol--iime-sonate-op-21-i",
+    "reason": "AssertionError: ('orphan_tie_continuations', 8)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--n53446--001-001_moniuszko-stanislaw--hrabina-uwertura",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--n68232--001-001_moniuszko-stanislaw--paria-wyciag-fortepianowy-wstep",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--n68232--001-005_moniuszko-stanislaw--paria-wyciag-fortepianowy-uwertura",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--n68470--001-002_dobrzynski-ignacy-feliks--deux-nocturnes-notturno-op-24-no-ii",
+    "reason": "AssertionError: ('orphan_tie_continuations', 14)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--r245--001-004_paderewski-ignacy-jan--stara-suita-op-3-fuga",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--r252--001-001_paderewski-ignacy-jan--trois-morceaux-op-3-humoresque",
+    "reason": "AssertionError: ('orphan_tie_continuations', 12)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--r252--001-003_paderewski-ignacy-jan--trois-morceaux-op-3-valse-melancolique",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--r254--001_paderewski-ignacy-jan--tobie",
+    "reason": "AssertionError: ('orphan_tie_continuations', 3)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--r254--002_paderewski-ignacy-jan--krakowiak-i",
+    "reason": "AssertionError: ('orphan_tie_continuations', 5)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--r255_paderewski-ignacy-jan--keyboard-piece",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--r261_paderewski-ignacy-jan--cahier-op-9",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--r264_paderewski-ignacy-jan--tema",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--r282--002-014_paderewski-ignacy-jan--exercises-2-exercise-14",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--r300--001-004_paderewski-ignacy-jan--canons-canon-4",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--r303_paderewski-ignacy-jan--preambule",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "sapp_joplin:augustan",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "sapp_joplin:figleaf",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  },
+  {
+    "id": "sapp_joplin:gladiolus",
+    "reason": "AssertionError: ('orphan_tie_continuations', 10)"
+  },
+  {
+    "id": "sapp_joplin:harmony",
+    "reason": "AssertionError: ('orphan_tie_continuations', 15)"
+  },
+  {
+    "id": "sapp_joplin:heliotrope",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "sapp_joplin:leola",
+    "reason": "AssertionError: ('orphan_tie_continuations', 1)"
+  },
+  {
+    "id": "sapp_joplin:paragon",
+    "reason": "AssertionError: ('orphan_tie_continuations', 6)"
+  },
+  {
+    "id": "sapp_joplin:roseleaf",
+    "reason": "AssertionError: ('orphan_tie_continuations', 4)"
+  },
+  {
+    "id": "sapp_joplin:school",
+    "reason": "AssertionError: empty composer"
+  },
+  {
+    "id": "sapp_joplin:swipesy",
+    "reason": "AssertionError: ('orphan_tie_continuations', 8)"
+  },
+  {
+    "id": "sapp_joplin:weepingwillow",
+    "reason": "AssertionError: ('orphan_tie_continuations', 6)"
+  },
+  {
+    "id": "sapp_haydn_sonatas:sonata12-1",
+    "reason": "AssertionError: empty composer"
+  },
+  {
+    "id": "sapp_haydn_sonatas:sonata12-2",
+    "reason": "AssertionError: empty composer"
+  },
+  {
+    "id": "sapp_haydn_sonatas:sonata12-3",
+    "reason": "AssertionError: empty composer"
+  },
+  {
+    "id": "sapp_haydn_sonatas:sonata33-3",
+    "reason": "AssertionError: ('orphan_tie_continuations', 2)"
+  }
+]

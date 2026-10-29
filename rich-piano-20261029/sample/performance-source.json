@@ -1,0 +1,5 @@
+{
+  "path": "source/make_piano_performance.py",
+  "sha256": "3a905a8b08499fc51f52c481bddd9a6b7e3c0cec21f4b8b5aa78b406afbe1dd5",
+  "scope": "post-training playback processor; core training source unchanged"
+}

@@ -1,0 +1,477 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 8,
+    "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+  },
+  {
+    "path": "comparison/baseline-audio-verification.json",
+    "bytes": 2106,
+    "sha256": "6c4f71dd72998dabb6e72df68f1f2e422aee4b4fc8a9f57f41b0b997f29d384f"
+  },
+  {
+    "path": "comparison/baseline-same-piano.mp3",
+    "bytes": 1896702,
+    "sha256": "ea6123e8e1d231c90fa69d5d03873036969cd4b092b331da37c3ea45fef4fc70"
+  },
+  {
+    "path": "CREDITS.txt",
+    "bytes": 796,
+    "sha256": "21a2438c3a038ddd9ff5bae22e82dc384ae91a3ace4727efc7a51d8a33d93ce3"
+  },
+  {
+    "path": "data/CLAUDE-CORPUS-AUDIT.md",
+    "bytes": 19648,
+    "sha256": "b9b1d1fe4d536d635618635d77e11a0e0ef9a889ec211faa83d77b3523139cfd"
+  },
+  {
+    "path": "data/final-corpus-crosscheck.json",
+    "bytes": 277,
+    "sha256": "07428bf3962fc8e881debe030becf00d0f0cc09866f2a7f8e897635930c1fa3b"
+  },
+  {
+    "path": "data/final-launch.json",
+    "bytes": 2648,
+    "sha256": "1b8d7f82a7dff59e398643b2baf1736d337dd77be1df32d38d3bf7d84a8a20e4"
+  },
+  {
+    "path": "data/input-snapshot-hashes.json",
+    "bytes": 889,
+    "sha256": "065e5616d8a25d94bfe8f9ca77a4b30612d85bfcecd66c69be8b0d95ab808f70"
+  },
+  {
+    "path": "data/integration-rejections.json",
+    "bytes": 38510,
+    "sha256": "f4b8f409efbbecae06ff2ed9b502cb40c8448ce09430787361acd402f3fd11f6"
+  },
+  {
+    "path": "data/late-audit-rejections.json",
+    "bytes": 5397,
+    "sha256": "40e939e9e62f895870c25fa6c4d5760e4ed8ca2e2c8deabb24aa0fd5f4346b7b"
+  },
+  {
+    "path": "data/licenses.json",
+    "bytes": 4048,
+    "sha256": "209e8e963ad006d157e6e4dd6096ffbb4a9fd03bc7fb726fd39ce9e4a32daf65"
+  },
+  {
+    "path": "data/merge-rejections.json",
+    "bytes": 542,
+    "sha256": "a392d7ffd0eede2192f8c95a99d7e0e21d224de30f2908fa333f4b6a383da803"
+  },
+  {
+    "path": "data/pieces.jsonl.gz",
+    "bytes": 5229058,
+    "sha256": "5b579391d36e0d0a7245751a37401e96a5b3dedc50de6e0bd06f7cb70bd5e46f"
+  },
+  {
+    "path": "data/pins.json",
+    "bytes": 276,
+    "sha256": "989d9e92028a39eafd503447104a8bda603f026ad5e211b4fd7eaec5c7f10711"
+  },
+  {
+    "path": "data/summary.json",
+    "bytes": 2085,
+    "sha256": "8e6f3f202f0e5487b2afc592d8fa9f7399b79f9818a2b89f13536c9a790e0cb6"
+  },
+  {
+    "path": "implementation/docs/research/2026-10-29-rich-piano-corpus-audit.md",
+    "bytes": 19648,
+    "sha256": "b9b1d1fe4d536d635618635d77e11a0e0ef9a889ec211faa83d77b3523139cfd"
+  },
+  {
+    "path": "implementation/docs/research/2026-10-29-rich-piano-usage.md",
+    "bytes": 3220,
+    "sha256": "206c1bb3cac2df990364a951ad1dd29b1614f6d9d24bdd339ce0f053342d4e35"
+  },
+  {
+    "path": "implementation/docs/superpowers/plans/2026-10-29-rich-piano-plan.md",
+    "bytes": 2493,
+    "sha256": "89a4f4e5871930c0494d1762641f041fbe6220a16455790f93e1993d55cd0afa"
+  },
+  {
+    "path": "implementation/docs/superpowers/specs/2026-10-29-rich-piano-design.md",
+    "bytes": 5572,
+    "sha256": "67159f69d76ff99923d8633961b6d3adc6d73091483434d7019c8ff8599a6b05"
+  },
+  {
+    "path": "implementation/docs/worklog/2026-10-29-rich-piano-ledger.md",
+    "bytes": 10923,
+    "sha256": "d4bf3b58bf5594ce9b5130a19f34b7783b5b5f67101e22c81402d913f3b1c4c3"
+  },
+  {
+    "path": "implementation/scripts/collect_rich_piano.py",
+    "bytes": 44589,
+    "sha256": "855e152b4ef6c3b047beceaf33291187c1bceb1e8d60704a37337dad9b42061f"
+  },
+  {
+    "path": "implementation/scripts/generate_rich_piano_ballad.py",
+    "bytes": 11826,
+    "sha256": "660359f75db0811043be7e5341b45a62240225d64299ca5656df0c7e52dac467"
+  },
+  {
+    "path": "implementation/scripts/make_piano_performance.py",
+    "bytes": 6695,
+    "sha256": "3a905a8b08499fc51f52c481bddd9a6b7e3c0cec21f4b8b5aa78b406afbe1dd5"
+  },
+  {
+    "path": "implementation/scripts/verify_rich_piano_sample.py",
+    "bytes": 5461,
+    "sha256": "87d46b458992bbec78b5978205df56a8c19bd61259778a8ec327c6862038f2e0"
+  },
+  {
+    "path": "implementation/src/omr/piano_rich/__init__.py",
+    "bytes": 86,
+    "sha256": "7997f0886190b093673bd2ee7022512c9c468e39643cdef08a0e50614d26890b"
+  },
+  {
+    "path": "implementation/src/omr/piano_rich/data.py",
+    "bytes": 4441,
+    "sha256": "303170a76feacbe5ab0cb114891a86c40a2f7b2f992ca9e33469fb4d466a743a"
+  },
+  {
+    "path": "implementation/src/omr/piano_rich/tokenizer.py",
+    "bytes": 7538,
+    "sha256": "056c8a1d04f5a8605491728454d131b2d666ec65366066e235ad7907026b0f0d"
+  },
+  {
+    "path": "implementation/src/omr/piano_rich/train.py",
+    "bytes": 26406,
+    "sha256": "32fd0c5a0d8f7e3e271cab9f08b60bf9d1cf6a0741be445ff0704e326c151ca0"
+  },
+  {
+    "path": "implementation/tests/piano_rich/__init__.py",
+    "bytes": 70,
+    "sha256": "948d301526b90747c45ae6f2d7b7db8bc94bd63d991556dd771f173b51128101"
+  },
+  {
+    "path": "implementation/tests/piano_rich/test_data.py",
+    "bytes": 1689,
+    "sha256": "ecb8bebec5e5ee36b5437c8d7993b9216827be4370a19fb079325f092d934c01"
+  },
+  {
+    "path": "implementation/tests/piano_rich/test_kern_parser.py",
+    "bytes": 4885,
+    "sha256": "a4180c53216f1e787207f57e1c0f395874304487e9ac22268708655514c017a6"
+  },
+  {
+    "path": "implementation/tests/piano_rich/test_performance.py",
+    "bytes": 4481,
+    "sha256": "7f6353e3576b75c690f7f0a6f9b7627b4a46c5d3b893e6f2bd04e8c290f519c0"
+  },
+  {
+    "path": "implementation/tests/piano_rich/test_tokenizer.py",
+    "bytes": 3503,
+    "sha256": "1bc89244108f29d873813801f9f388c7eecf1b05bbabf73c87fe25131db5fea8"
+  },
+  {
+    "path": "implementation/tests/piano_rich/test_train.py",
+    "bytes": 4071,
+    "sha256": "7ad0984c9d677cf40ed6c3d4f46e125737e6ff66f319274a7fa790443c21cea2"
+  },
+  {
+    "path": "model/best.pt",
+    "bytes": 22895676,
+    "sha256": "36ed6afa62bf537f44364ccfe387a60377780f0e08810e2aa37f08b10deb54f7"
+  },
+  {
+    "path": "model/metadata.json",
+    "bytes": 474662,
+    "sha256": "3c45343af88bc88a29736abea998fdb871e1a79f440419c064bb1dd526d4768d"
+  },
+  {
+    "path": "PACKAGE-MANIFEST.json",
+    "bytes": 10841,
+    "sha256": "bf4dcf999f3b24f4bd222337f30eb5b83fef82fbbbe4b2665e0921ac8544c2f4"
+  },
+  {
+    "path": "README.ko.md",
+    "bytes": 1609,
+    "sha256": "4de8e3bbfe93150ab7cab1b91fa9b8f8cd774ff363d9d4cf0d5af3a3e45d44a4"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2375,
+    "sha256": "f0ab3f0ab36f2684848f64f6d77a298272f884478e356d6701f5a4738cc07e37"
+  },
+  {
+    "path": "rich-piano-20261029.zip",
+    "bytes": 31717082,
+    "sha256": "8d93ce765b188ad5a14d63ed6fc402a3c1c62737d592f594f4310adcc16fcae8"
+  },
+  {
+    "path": "rich-piano-20261029.zip.sha256",
+    "bytes": 91,
+    "sha256": "0e1e2660ff09a729467a0cdc32ad26ee1d73c38a0f59d3a09e24d5f633903d3a"
+  },
+  {
+    "path": "sample/audio-verification.json",
+    "bytes": 2107,
+    "sha256": "a4a1c6b15950d413c8a04946bd352b54978f5dad1d2247b586af926e286e45c5"
+  },
+  {
+    "path": "sample/engraving-verification.json",
+    "bytes": 1453,
+    "sha256": "6b593bdbdecd2ce4ba52e47a300d121ceae22b47c143e243a4590129dbbbfc8d"
+  },
+  {
+    "path": "sample/lyric-cues.json",
+    "bytes": 1926,
+    "sha256": "2df12e8aba281c54d1b218b358b651d2315f4a0330532aeb8561a10039ea4455"
+  },
+  {
+    "path": "sample/lyric-placements.json",
+    "bytes": 11350,
+    "sha256": "11dc10d950eeb60e758346dff8d4d8569882ff98961ff921391c932d1cba1664"
+  },
+  {
+    "path": "sample/lyrics.txt",
+    "bytes": 452,
+    "sha256": "6e8cb7d7c1748026606319dd42244fe4c4031c7d3a58e25684218ccd8f77de2c"
+  },
+  {
+    "path": "sample/performance-source.json",
+    "bytes": 207,
+    "sha256": "daa520154b97ba6fa215ca31088f1791f9dc37d86a85fc9cd69700f1be21fa67"
+  },
+  {
+    "path": "sample/performance.json",
+    "bytes": 88318,
+    "sha256": "4ade888f738a7644f24d450e0e2dfda903e10d4530c2439930320297166a9cf8"
+  },
+  {
+    "path": "sample/performance.mid",
+    "bytes": 3660,
+    "sha256": "ce5622b798ee6638e12b9e17c9d0c40b19d3af6dcecc517ffd8de682366f1ae7"
+  },
+  {
+    "path": "sample/piano/composition.json",
+    "bytes": 97147,
+    "sha256": "468ede25a50bc55bc0ad75d3d7a19c0d2f664655092a0d4575b8b38a1ec3ede1"
+  },
+  {
+    "path": "sample/piano/engraved/engraving.json",
+    "bytes": 660,
+    "sha256": "f8383776c87216425ef74b0441444212c6b5f66a95df64c677b424f517654db0"
+  },
+  {
+    "path": "sample/piano/engraved/score-01.svg",
+    "bytes": 278359,
+    "sha256": "02f9a09d917e4fb83e8d4107288ba917f07ee0b90a9808d28499aab55274fdd5"
+  },
+  {
+    "path": "sample/piano/engraved/score-02.svg",
+    "bytes": 155837,
+    "sha256": "19403f6fcb0fe599cd357c6d8164fbd546334fd7767652e818d5e66ac31df7c0"
+  },
+  {
+    "path": "sample/piano/preview.png",
+    "bytes": 156494,
+    "sha256": "6e218b19c07b9d791c4b218536d091a7b93f1fe2686ee111c97ff0eba863e38a"
+  },
+  {
+    "path": "sample/piano/score-01.png",
+    "bytes": 135704,
+    "sha256": "10330025ba5388ca369a39ea5f9a39394ab108a4e1d0c4ff233306cc931a5844"
+  },
+  {
+    "path": "sample/piano/score-02.png",
+    "bytes": 82351,
+    "sha256": "4cca2ae54e6b861576d45f00159fcd84c53c84def48091a4daf4a176d0243b7a"
+  },
+  {
+    "path": "sample/piano/score.mid",
+    "bytes": 3352,
+    "sha256": "b5cba025805b9a633046cd182a5bd8bdb416fb063dd27bcf30ddcfcc0e7d8f9e"
+  },
+  {
+    "path": "sample/piano/score.musicxml",
+    "bytes": 71701,
+    "sha256": "2a60db98af328cf1eb9c7b359812cda1ade4c08463375d44dceac90e7f94b7cd"
+  },
+  {
+    "path": "sample/piano/score.pdf",
+    "bytes": 323686,
+    "sha256": "0f53fa6ed6d2d975030b320f284a689e5873bc30c7fc87611e00c2c87862c7cb"
+  },
+  {
+    "path": "sample/piano-only/composition.json",
+    "bytes": 97147,
+    "sha256": "468ede25a50bc55bc0ad75d3d7a19c0d2f664655092a0d4575b8b38a1ec3ede1"
+  },
+  {
+    "path": "sample/piano-only/engraved/engraving.json",
+    "bytes": 661,
+    "sha256": "3671537d7f51b7d76116e9e2d3d376c060177ac0a4800ec8eda0323f3b02702b"
+  },
+  {
+    "path": "sample/piano-only/engraved/score-01.svg",
+    "bytes": 251236,
+    "sha256": "74abd3e87892db0dd3a1f24863ccc9b30c8a3cd59c4cebca9a2ac22fc27aa563"
+  },
+  {
+    "path": "sample/piano-only/engraved/score-02.svg",
+    "bytes": 138300,
+    "sha256": "e1d149dd019993460950c6c584c674418de2292d35593f5e3d2098a7c047d704"
+  },
+  {
+    "path": "sample/piano-only/preview.png",
+    "bytes": 141461,
+    "sha256": "db145695207761fd88f7d12d74fe6085e60952d5df4421abde48712b1cd50a46"
+  },
+  {
+    "path": "sample/piano-only/score-01.png",
+    "bytes": 123240,
+    "sha256": "980ddb69d9f10f5f404a481906abafed23c7e501c0bde2c9cec9f1f5fac295a9"
+  },
+  {
+    "path": "sample/piano-only/score-02.png",
+    "bytes": 73110,
+    "sha256": "ce6a8337e83ce8f104b82f2779dc7437daa00a36a139205e4b37d86b833bcc49"
+  },
+  {
+    "path": "sample/piano-only/score.mid",
+    "bytes": 3352,
+    "sha256": "b5cba025805b9a633046cd182a5bd8bdb416fb063dd27bcf30ddcfcc0e7d8f9e"
+  },
+  {
+    "path": "sample/piano-only/score.musicxml",
+    "bytes": 65215,
+    "sha256": "5c0fcf58c9948979ad834331e913c15f14b8204b34131af9752f6cbac02c5364"
+  },
+  {
+    "path": "sample/piano-only/score.pdf",
+    "bytes": 152558,
+    "sha256": "296b251fd3ba29a28c0252068e719a97d74f71622b1b0a87ab60f1c117004b4c"
+  },
+  {
+    "path": "sample/piano.mp3",
+    "bytes": 1898944,
+    "sha256": "d5b94b0a9d8f0ef066ff4ab2c2298635bfc2de0b334f3d0ae33e3f4b36f7a597"
+  },
+  {
+    "path": "sample/provenance.json",
+    "bytes": 14239,
+    "sha256": "7cd91251653a67113cf573d334a843bd29e4f6688f7a495d1a386cb525c4a0dd"
+  },
+  {
+    "path": "sample/score-verification.json",
+    "bytes": 1524,
+    "sha256": "cb6b9f36e6f8379c3789dc7fd0510340a39c6978787ffdc9969da3a1d466e0a4"
+  },
+  {
+    "path": "SHA256SUMS.txt",
+    "bytes": 6609,
+    "sha256": "e8f97d17c0258559e8a1a1d10e2f2d44c484c05b33888ad9080a42bfc92d3142"
+  },
+  {
+    "path": "source/collect_rich_piano.py",
+    "bytes": 44589,
+    "sha256": "855e152b4ef6c3b047beceaf33291187c1bceb1e8d60704a37337dad9b42061f"
+  },
+  {
+    "path": "source/finalize_clean_manifest.py",
+    "bytes": 3742,
+    "sha256": "0b2971ebf3b3428c608fa7e28b8790875f9b76cd965bde6e5b2a7f267dbfacad"
+  },
+  {
+    "path": "source/finish_sample.py",
+    "bytes": 1582,
+    "sha256": "a2110fb871c6f1a10cef3d6cbe1853db34d874afd5d0ff93472510c4abe70561"
+  },
+  {
+    "path": "source/generate_rich_piano_ballad.py",
+    "bytes": 12010,
+    "sha256": "fd53e68950b95540d2cb31fa2d5ce6bcdb96cf782e8bc6468dc783ea07032553"
+  },
+  {
+    "path": "source/make_piano_performance.py",
+    "bytes": 6695,
+    "sha256": "3a905a8b08499fc51f52c481bddd9a6b7e3c0cec21f4b8b5aa78b406afbe1dd5"
+  },
+  {
+    "path": "source/prepare_final_data.py",
+    "bytes": 4426,
+    "sha256": "a214f528416bf030ef258513cccd85b3b9f95ef79ec04518b273f51f33d5589a"
+  },
+  {
+    "path": "source/render_rich_audio.py",
+    "bytes": 2902,
+    "sha256": "dc9e4e290b5d99e3a1c4c78a09b4970671e5b325e1abb9975ee1bf7c651c95d6"
+  },
+  {
+    "path": "source/rich_piano_render.c",
+    "bytes": 2334,
+    "sha256": "a4f2bb93d16e129b1c00ffe23024cce44024fe5e399b04fe5a4df360075c2526"
+  },
+  {
+    "path": "source/training-source.tgz",
+    "bytes": 123340,
+    "sha256": "021ba0c87fd2f9bf39027ec7900e79bec488b069b12842207dcd8db37b8c3f9b"
+  },
+  {
+    "path": "source/verify_rich_piano_sample.py",
+    "bytes": 5552,
+    "sha256": "20aba570cbb32fde156a6533b01ac96e9e298cea548677ebba7ee8e9d4582ba2"
+  },
+  {
+    "path": "SOURCE-REVISION.json",
+    "bytes": 2974,
+    "sha256": "5fea52386cc2165ee5baed52248103a1002647c1ac1c312fbabfacd74aa21d44"
+  },
+  {
+    "path": "training/environment.json",
+    "bytes": 99,
+    "sha256": "52eea15f29be76cbcd78254ce42f94ceb6e8cc39445303b4f3f3b5078c667210"
+  },
+  {
+    "path": "training/epochs.json",
+    "bytes": 513065,
+    "sha256": "79213d46a309ef1ae1bbc896d72951097467f734df39a1c4b98db368cec277d5"
+  },
+  {
+    "path": "training/final-exit-code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "training/posttrain-exit-code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "training/results.json",
+    "bytes": 1134521,
+    "sha256": "c93a49dbe0f06ed0e9593bb85149e535f7e963ec03506ad8731676a5a0cd03de"
+  },
+  {
+    "path": "training/results.sha256",
+    "bytes": 79,
+    "sha256": "af218c24674dd5f9a4561833d1d792406662c608ea0359b530cc0ee64f2654df"
+  },
+  {
+    "path": "training/run.json",
+    "bytes": 598259,
+    "sha256": "b86f1950462efe5a3ed3997fa6bf2aea4ed58688219187a373cee16203bbf21c"
+  },
+  {
+    "path": "TRAINING-REPORT.ko.md",
+    "bytes": 11490,
+    "sha256": "f614d58a539db7a10be9f6a6099571231002425f10722888468cf40e41b990ea"
+  },
+  {
+    "path": "verification/all-pages.png",
+    "bytes": 178398,
+    "sha256": "56ef000ca928ba7a73fafc40ee2251e632e9ce6640ca2cf1f1f33f1644c8dd18"
+  },
+  {
+    "path": "verification/tests.txt",
+    "bytes": 621,
+    "sha256": "c7325dfc60ecae485556bd6f1e073b94263e82e0f7b5988af1249472d2298b04"
+  },
+  {
+    "path": "verification.json",
+    "bytes": 1428,
+    "sha256": "a5e396754b71149f2c9cd6db25fc4558c0ac0ead5ff5ecfd7a7e4bb6d94b3005"
+  }
+]

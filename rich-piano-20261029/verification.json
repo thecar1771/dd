@@ -1,0 +1,36 @@
+{
+  "completed_training_epochs": 6,
+  "fresh_initialization": true,
+  "complete_source_coverage": true,
+  "tests_passed": 240,
+  "expected_environment_skips": 3,
+  "pdfs": [
+    {
+      "edition": "piano",
+      "pages": 2,
+      "a4": true,
+      "sha256": "0f53fa6ed6d2d975030b320f284a689e5873bc30c7fc87611e00c2c87862c7cb"
+    },
+    {
+      "edition": "piano-only",
+      "pages": 2,
+      "a4": true,
+      "sha256": "296b251fd3ba29a28c0252068e719a97d74f71622b1b0a87ab60f1c117004b4c"
+    }
+  ],
+  "independent_performance_physical_keys": true,
+  "same_piano_loudness_matched_comparison": true,
+  "corpus_crosscheck": {
+    "frozen_additions": 617,
+    "latest_collector_additions": 636,
+    "frozen_not_in_latest": [],
+    "different_note_staff_tie_content": [],
+    "frozen_subset_of_latest": true,
+    "latest_candidate_sha256": "a05012f7bfd4a72dc1122c31bed09963cb78da9cb65ecd5a166d13d54f710c0a"
+  },
+  "checkpoint_sha256": "36ed6afa62bf537f44364ccfe387a60377780f0e08810e2aa37f08b10deb54f7",
+  "manifest_sha256": "a6b9f6959d9428650132d77351adc0ebc1673aefd4de4a3cec14b36bf96c73c1",
+  "limits": "Technical/structural verification and visual review; no human listening preference score or direct YouTube comparison.",
+  "source_base_commit": "df4eb146a395af792b87dc46823fe39a3022ba52",
+  "training_source_archive_sha256": "021ba0c87fd2f9bf39027ec7900e79bec488b069b12842207dcd8db37b8c3f9b"
+}

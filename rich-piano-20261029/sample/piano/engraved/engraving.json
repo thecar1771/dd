@@ -1,0 +1,25 @@
+{
+  "source": "C:\\Users\\theca\\orca\\projects\\OMR\\artifacts\\piano-richness-20261029\\final\\sample\\piano\\score.musicxml",
+  "engraver": "verovio 6.2.1[undefined]",
+  "options": {
+    "pageWidth": 2100,
+    "pageHeight": 2970,
+    "scale": 50,
+    "header": "auto",
+    "footer": "none",
+    "lyricSize": 4.0,
+    "lyricWordSpace": 4.0,
+    "lyricTopMinMargin": 8.0,
+    "spacingStaff": 20,
+    "spacingSystem": 12
+  },
+  "layout": {
+    "pages": 2,
+    "syllables": 94,
+    "hyphen_marks": 0,
+    "min_advance_em": 1.356,
+    "crowded_pairs": 0,
+    "min_gap_to_next_staff_em": 0.867,
+    "min_notehead_clearance_em": 1.011
+  }
+}

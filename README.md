@@ -1,5 +1,14 @@
 # 우리들의 사파리
 
+## 최신: 오늘도, 나의 자리 · 풍부한 피아노 편곡
+
+피아노만으로 내성 화음과 반주를 확장한 새 버전입니다. Claude 협업으로 자료를 수집·검증하고 학습 악보 1,403개로 6에포크 GPU 학습을 완료했습니다.
+
+[새 버전 안내](rich-piano-20261029/README.md) · [피아노 MP3](rich-piano-20261029/sample/piano.mp3) · [피아노 악보 PDF](rich-piano-20261029/sample/piano-only/score.pdf) · [가사 포함 PDF](rich-piano-20261029/sample/piano/score.pdf) · [학습 보고서](rich-piano-20261029/TRAINING-REPORT.ko.md) · [전체 ZIP](rich-piano-20261029/rich-piano-20261029.zip)
+
+---
+
+
 사진에서 영감을 받아 작성한 한국어 가사, 32마디 노래 선율과 피아노 반주의 창작 예시입니다. G장조, 4/4박자, 템포 108로 구성했습니다. 장면 해석 후 직접 작곡한 결과이며, 신규 학습 모델의 자동 생성 성능을 나타내지 않습니다.
 
 ## 악보 1쪽

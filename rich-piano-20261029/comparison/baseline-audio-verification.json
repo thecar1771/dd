@@ -1,0 +1,52 @@
+{
+  "seconds": 112.82297052154195,
+  "sample_rate": 44100,
+  "channels": 2,
+  "clipped_samples": 0,
+  "peak_dbfs": -3.555820878671513,
+  "rms_dbfs": -21.87160892666818,
+  "mp3_sha256": "ea6123e8e1d231c90fa69d5d03873036969cd4b092b331da37c3ea45fef4fc70",
+  "performance_sha256": "66903c7b539801a26f752a3b9110b47036a98c66aa4c8d132b949978583e4cc6",
+  "soundfont": {
+    "source": "https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html",
+    "download_url": "https://freepats.zenvoid.org/Piano/SalamanderGrandPiano/SalamanderGrandPiano-SF2-V3%2B20200602.tar.xz",
+    "author": "Alexander Holm",
+    "license": "CC BY 3.0",
+    "archive_bytes": 310397984,
+    "archive_sha256": "15edb061d7ba60d58332f72dba8f8ce40988048cc703f935e6320f37d650e213",
+    "soundfont": "/home/sparkey17/piano-rich-audio-20261029/SalamanderGrandPiano-SF2-V3+20200602/SalamanderGrandPiano-V3+20200602.sf2",
+    "soundfont_sha256": "712d0e681efbe5203a8014e9b3e84168f1908c82f2f6fb13bd2c77d6d72c70b7"
+  },
+  "native_render": {
+    "frames": 4972539,
+    "seconds": 112.755986,
+    "float_peak": 0.11654182,
+    "output": "float32 stereo; no integer clipping"
+  },
+  "master_filter": "aecho=0.8:0.88:41|67:0.10|0.06,loudnorm=I=-19:TP=-1.5:LRA=11:measured_I=-37.10:measured_LRA=8.00:measured_TP=-21.65:measured_thresh=-47.42:offset=-1.42:linear=true:print_format=json",
+  "loudness_analysis": {
+    "input_i": "-37.10",
+    "input_tp": "-21.65",
+    "input_lra": "8.00",
+    "input_thresh": "-47.42",
+    "output_i": "-17.58",
+    "output_tp": "-2.41",
+    "output_lra": "8.10",
+    "output_thresh": "-27.87",
+    "normalization_type": "dynamic",
+    "target_offset": "-1.42"
+  },
+  "master_loudness": {
+    "input_i": "-37.07",
+    "input_tp": "-21.66",
+    "input_lra": "8.00",
+    "input_thresh": "-47.39",
+    "output_i": "-18.97",
+    "output_tp": "-3.56",
+    "output_lra": "8.00",
+    "output_thresh": "-29.30",
+    "normalization_type": "linear",
+    "target_offset": "-0.03"
+  },
+  "scope": "one acoustic piano only; separate expressive MIDI, small room effect, loudness matched; technical checks, not subjective preference"
+}

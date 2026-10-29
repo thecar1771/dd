@@ -1,0 +1,118 @@
+[
+  {
+    "id": "nifc_chopin_first_editions:027-1-Sm-001",
+    "reason": "withheld: timing/tie ambiguity {'pitchless_tokens_treated_as_spacers': 1}"
+  },
+  {
+    "id": "nifc_chopin_first_editions:048_1-1a-Sm-001",
+    "reason": "withheld: timing/tie ambiguity {'chords_with_mixed_durations': 1}"
+  },
+  {
+    "id": "nifc_chopin_first_editions:070-1-MEIf-001",
+    "reason": "withheld: timing/tie ambiguity {'chords_with_mixed_durations': 1}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-sa--556-a-ix-36--002_danielski-florian--valse-a-trois-mains",
+    "reason": "withheld: more than two staff identities need separate hand audit"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wn--mus-iii-160-984_sowinski-wojciech--la-bercheuse-op-73",
+    "reason": "withheld: timing/tie ambiguity {'pitchless_tokens_treated_as_spacers': 1}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--493-n--001-013_oginski-michal-kleofas--16-polonaises-13-a-trois-mains",
+    "reason": "withheld: more than two staff identities need separate hand audit"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--6485-n--002_osmanski-wojciech--marsz-zuaw-no-4",
+    "reason": "withheld: more than two staff identities need separate hand audit"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--6577-n_nowicki-ludwik--cieniom-adama-mickiewicza-koncert-nad-koncertami-jankiela",
+    "reason": "withheld: timing/tie ambiguity {'chords_with_mixed_durations': 4}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wnifc--6854-n--001_kozlowski-jozef--polonaise-in-g",
+    "reason": "withheld: timing/tie ambiguity {'chords_with_mixed_durations': 1}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--1127-3625--001-003_rozycki-ludomir--4-impromptus-op-6-3",
+    "reason": "withheld: more than two staff identities need separate hand audit"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--2099-fp-7103--001-003_moszkowski-moritz--bagatellen-op-63-iii",
+    "reason": "withheld: timing/tie ambiguity {'pitchless_tokens_treated_as_spacers': 5}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-23-905-69--001-003_moszkowski-moritz--spanische-tanze-op-12-iii",
+    "reason": "withheld: more than two staff identities need separate hand audit"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-875-69--001-001_moszkowski-moritz--fruhling-op-57-iv-zephyr",
+    "reason": "withheld: more than two staff identities need separate hand audit"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-901-69_moszkowski-moritz--miniature-op-28",
+    "reason": "withheld: timing/tie ambiguity {'pitchless_tokens_treated_as_spacers': 2}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-919-69_moszkowski-moritz--album-espagnol-op-21-no-3",
+    "reason": "withheld: timing/tie ambiguity {'pitchless_tokens_treated_as_spacers': 1}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--a-24-922-69_moszkowski-moritz--valse-brillante",
+    "reason": "withheld: timing/tie ambiguity {'pitchless_tokens_treated_as_spacers': 1}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--iii-41-637-3--001-001_joteyko-tadeusz--sonatine-f-dur-op-18-no-3-i-le-printemps",
+    "reason": "withheld: more than two staff identities need separate hand audit"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--mus-iii-40-532--001-002_grossman-ludwik--dwa-spiewy-znane-op-31-litwinka",
+    "reason": "withheld: timing/tie ambiguity {'chords_with_mixed_durations': 1}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-1372_stefani-jozef--marsz-z-baletu-korsarz",
+    "reason": "withheld: timing/tie ambiguity {'pitchless_tokens_treated_as_spacers': 1}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-1405--003_stefani-jozef--andante",
+    "reason": "withheld: timing/tie ambiguity {'chords_with_mixed_durations': 1}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2012--002_smietanski-emil-wladyslaw--polonaise-op-28",
+    "reason": "withheld: timing/tie ambiguity {'chords_with_mixed_durations': 1}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2043--pc1_smietanski-emil-wladyslaw--rondo-pour-piano-post-correcturam-pc1",
+    "reason": "withheld: timing/tie ambiguity {'chords_with_mixed_durations': 1}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2114--001-003_wysocki-kasper-napoleon--piano-piece-n-3",
+    "reason": "withheld: timing/tie ambiguity {'chords_with_mixed_durations': 1}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2131_wysocki-kasper-napoleon--marsz",
+    "reason": "withheld: timing/tie ambiguity {'chords_with_mixed_durations': 3}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-2526_hertz-michal--romance",
+    "reason": "withheld: timing/tie ambiguity {'chords_with_mixed_durations': 1}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-425-m_moniuszko-stanislaw--hamlet-marsz",
+    "reason": "withheld: timing/tie ambiguity {'chords_with_mixed_durations': 1}"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wtm--r-730-7-m--004_moniuszko-stanislaw--walc",
+    "reason": "withheld: more than two staff identities need separate hand audit"
+  },
+  {
+    "id": "nifc_polish_scores:pl-wumfc--r311--002_paderewski-ignacy-jan--variations",
+    "reason": "withheld: timing/tie ambiguity {'chords_with_mixed_durations': 2}"
+  },
+  {
+    "id": "sapp_haydn_sonatas:sonata49-1",
+    "reason": "withheld: timing/tie ambiguity {'chords_with_mixed_durations': 1}"
+  }
+]

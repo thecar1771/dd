@@ -1,0 +1,56 @@
+{
+  "checks": [
+    {
+      "folder": "piano",
+      "midi_exact_note_match": true,
+      "piano_program_only": true,
+      "lyrics": 94
+    },
+    {
+      "folder": "piano-only",
+      "midi_exact_note_match": true,
+      "piano_program_only": true,
+      "lyrics": 0
+    }
+  ],
+  "original_lead_pitch_rhythm_preserved": true,
+  "baseline": {
+    "notes": 221,
+    "max_simultaneous_keys": 3,
+    "max_active_hand_span_semitones": {
+      "piano_lh": 7,
+      "piano_rh": 0
+    },
+    "beats_with_at_least_three_notes": 4.0,
+    "distinct_left_hand_rhythms": 3,
+    "notes_per_bar_by_section": {
+      "intro@1": 4.0,
+      "verse@5": 7.5,
+      "prechorus@13": 7.75,
+      "chorus@17": 8.125,
+      "chorus@25": 8.5,
+      "outro@29": 3.75
+    }
+  },
+  "rich": {
+    "notes": 363,
+    "max_simultaneous_keys": 5,
+    "max_active_hand_span_semitones": {
+      "piano_lh": 12,
+      "piano_rh": 12
+    },
+    "beats_with_at_least_three_notes": 100.5,
+    "distinct_left_hand_rhythms": 4,
+    "notes_per_bar_by_section": {
+      "intro@1": 5.0,
+      "verse@5": 11.5,
+      "prechorus@13": 11.75,
+      "chorus@17": 15.375,
+      "chorus@25": 15.5,
+      "outro@29": 4.75
+    }
+  },
+  "checkpoint_sha256": "36ed6afa62bf537f44364ccfe387a60377780f0e08810e2aa37f08b10deb54f7",
+  "score_sha256": "b5cba025805b9a633046cd182a5bd8bdb416fb063dd27bcf30ddcfcc0e7d8f9e",
+  "limits": "Mechanical key-span/timing checks; not a human performance or listening preference evaluation."
+}

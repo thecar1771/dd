@@ -1,0 +1,142 @@
+{
+ "nifc_chopin_first_editions": {
+  "repository_files": {
+   "LICENSE.txt": {
+    "sha256": "430533a2646f16c8c7b58d919b13e0f8dfc5afb334c1915eceea2bf8c19551f9",
+    "head": [
+     "First Editions of Fryderyk Chopin's Music",
+     "Copyright 2017-2021 The Fryderyk Chopin Institute (https://nifc.pl)",
+     "Website: https://chopinscores.org",
+     "Digital scores: https://github.com/pl-wnifc/humdrum-chopin-first-editions",
+     "License: https://creativecommons.org/licenses/by/4.0",
+     "",
+     "You are free to:",
+     "",
+     "* Share — copy and redistribute the material in any medium or format"
+    ]
+   },
+   "README.md": {
+    "sha256": "b212af375334464c2c1444b6bfc70dbf9a4595960efe4845d76ed5a6ae22fd8e",
+    "head": null
+   }
+  },
+  "declared_license": [
+   "CC-BY-4.0"
+  ],
+  "usage_profile": [
+   "commercial-compatible"
+  ],
+  "accepted_rows": 22,
+  "per_file_YEM_license_records": [
+   [
+    "(none)",
+    22
+   ]
+  ],
+  "composer_death_year_max": 1849
+ },
+ "nifc_polish_scores": {
+  "repository_files": {
+   "LICENSE.txt": {
+    "sha256": "796ef7f0e213f562ef745723ebba8b73058a79cb90779b2434ffa5f22234cb06",
+    "head": [
+     "Polish Music Heritage in Open Access",
+     "Copyright 2019-2022 The Fryderyk Chopin Institute (https://nifc.pl)",
+     "Website: https://polishscores.org",
+     "Digital scores: https://github.com/pl-wnifc/humdrum-polish-scores",
+     "License: https://creativecommons.org/licenses/by/4.0",
+     "",
+     "You are free to:",
+     "",
+     "* Share — copy and redistribute the material in any medium or format"
+    ]
+   },
+   "README.md": {
+    "sha256": "82ec9bd64456465de390a4a3de8d45835d079b86d238fa3b8aac1e4e88e03728",
+    "head": null
+   }
+  },
+  "declared_license": [
+   "CC-BY-4.0"
+  ],
+  "usage_profile": [
+   "commercial-compatible"
+  ],
+  "accepted_rows": 573,
+  "per_file_YEM_license_records": [
+   [
+    "License CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0)",
+    573
+   ]
+  ],
+  "composer_death_year_max": 1953
+ },
+ "sapp_haydn_sonatas": {
+  "repository_files": {
+   "LICENSE.txt": {
+    "sha256": "60f865aeeca57a8d63afc24e516b30683018f24e776f5afd0f98c8dbc44ce9f4",
+    "head": [
+     "A digital edition of Haydn piano sonatas",
+     "from Universal Edition issue 1-4, vols. 1-4 (1901)",
+     "================================================",
+     "",
+     "Copyright (C) 2008-2021 Craig Stuart Sapp",
+     "https://github.com/craigsapp/haydn-keyboard-sonatas",
+     "",
+     "Licensed with Attribution-NonCommercial-ShareAlike 4.0 International ",
+     "(CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0"
+    ]
+   }
+  },
+  "declared_license": [
+   "CC-BY-NC-SA-4.0"
+  ],
+  "usage_profile": [
+   "research-noncommercial"
+  ],
+  "accepted_rows": 20,
+  "per_file_YEM_license_records": [
+   [
+    "Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0",
+    20
+   ]
+  ],
+  "composer_death_year_max": 1809
+ },
+ "sapp_joplin": {
+  "repository_files": {
+   "LICENSE.txt": {
+    "sha256": "a7648647d9bed62dc88790daff982e5e2fe2b8c55530c2b0ff0696341aada220",
+    "head": [
+     "A Digital Edition of Scott Joplin's Music",
+     "================================================",
+     "",
+     "Copyright (C) 2004-2021 Craig Stuart Sapp",
+     "https://github.com/craigsapp/joplin",
+     "",
+     "Licensed with Attribution-NonCommercial-ShareAlike 4.0 International ",
+     "(CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0",
+     ""
+    ]
+   },
+   "README.md": {
+    "sha256": "09e2a8b9e8526783950f7d6c8e5952135bc562eb1e3a8c56294999a8ee1a2013",
+    "head": null
+   }
+  },
+  "declared_license": [
+   "CC-BY-NC-SA-4.0"
+  ],
+  "usage_profile": [
+   "research-noncommercial"
+  ],
+  "accepted_rows": 21,
+  "per_file_YEM_license_records": [
+   [
+    "Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0",
+    21
+   ]
+  ],
+  "composer_death_year_max": 1917
+ }
+}
