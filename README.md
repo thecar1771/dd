@@ -1,10 +1,10 @@
 # 우리들의 사파리
 
-## 최신: 언제 이렇게 컸을까 · 피아노 독주
+## 최신: 언제 이렇게 컸을까 · 노래와 피아노
 
-첫째 딸의 콩쿠르 특상을 축하하는 날의 기분을 담은 32마디 피아노 발라드입니다. 다장조·♩=72.
+첫째 딸의 콩쿠르 특상을 축하하는 날의 기분을 담은 32마디 노래와 피아노입니다. 다장조·♩=72.
 
-[안내](eonje-keotseulkka/README.md) · [피아노 MP3](eonje-keotseulkka/piano.mp3) · [악보 PDF](eonje-keotseulkka/score.pdf)
+[안내와 가사](eonje-keotseulkka/README.md) · [가사 포함 악보 PDF](eonje-keotseulkka/score.pdf) · [피아노 MP3](eonje-keotseulkka/piano.mp3)
 
 ---
 

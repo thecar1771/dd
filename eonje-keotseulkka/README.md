@@ -1,11 +1,30 @@
-# 언제 이렇게 컸을까 · 피아노 독주
+# 언제 이렇게 컸을까 · 노래와 피아노
 
 첫째 딸이 콩쿠르에서 특상을 받은 날, 대견하고 기특한 마음과 가족 덕분에 행복했던 하루를 담은 32마디 피아노 발라드입니다. 다장조, 4/4박자, ♩=72, 약 1분 53초.
 
-[피아노 MP3](piano.mp3) · [악보 PDF](score.pdf) · [MusicXML](score.musicxml) · [MIDI](score.mid)
+[가사 포함 악보 PDF](score.pdf) · [가사](lyrics.txt) · [피아노 MP3](piano.mp3) · [MusicXML](score.musicxml) · [MIDI](score.mid) · [가사 없는 피아노 악보](piano-only/score.pdf)
 
 ![악보 1쪽](score-01.png)
 ![악보 2쪽](score-02.png)
+
+## 가사
+```
+[A]
+무대 앞에 선 너를 바라보던 날
+떨리는 손 꼭 잡고 사진 한 장 담아
+
+[B]
+네 이름이 불리던 특상이란 말에
+눈물 고인 채로 손뼉 쳤어 대견해
+
+[A']
+언제 이리 자랐니 작던 아이가
+오늘 하루 가족과 함께라서 좋아
+
+[Coda]
+고마워 사랑해요
+```
+가사는 오른손 선율 음표 하나에 한 음절씩 붙어 있습니다(전주 4마디와 마지막 화음은 연주만).
 
 ## 곡 구성
 | 마디 | 구간 | 장면 |
@@ -20,6 +39,6 @@
 - 선율·화성 진행·형식·셈여림은 사연을 바탕으로 직접 작곡한 창작물입니다.
 - 왼손 반주와 오른손 안쪽 성부의 음 선택은 rich 피아노 v1 모델(research-noncommercial)이 했습니다.
 - 모델이 사진이나 글을 해석하지는 않았고, 장면과 음악을 연결한 것은 작곡 설정입니다.
-- MP3는 Salamander 그랜드피아노 SoundFont로 합성한 확인용 음원이며, 실제 연주 녹음이 아닙니다.
+- MP3에는 노래 목소리 없이 피아노만 들어 있습니다. Salamander 그랜드피아노 SoundFont로 합성한 확인용 음원이며, 실제 연주 녹음이 아닙니다.
 - 사진 원본은 포함하지 않았습니다.
-- 재생성 스크립트: [source/compose_v2.py](source/compose_v2.py)
+- 재생성 스크립트: [source/compose_v2.py](source/compose_v2.py), 가사 붙이기: [source/add_lyrics.py](source/add_lyrics.py)

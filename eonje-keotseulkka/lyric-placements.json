@@ -1,0 +1,500 @@
+[
+ {
+  "bar": 4,
+  "onset": 0,
+  "pitch": 64,
+  "lyric": "무"
+ },
+ {
+  "bar": 4,
+  "onset": 12,
+  "pitch": 67,
+  "lyric": "대"
+ },
+ {
+  "bar": 4,
+  "onset": 24,
+  "pitch": 72,
+  "lyric": "앞"
+ },
+ {
+  "bar": 4,
+  "onset": 42,
+  "pitch": 71,
+  "lyric": "에"
+ },
+ {
+  "bar": 5,
+  "onset": 0,
+  "pitch": 71,
+  "lyric": "선"
+ },
+ {
+  "bar": 5,
+  "onset": 24,
+  "pitch": 74,
+  "lyric": "너"
+ },
+ {
+  "bar": 5,
+  "onset": 36,
+  "pitch": 71,
+  "lyric": "를"
+ },
+ {
+  "bar": 6,
+  "onset": 0,
+  "pitch": 72,
+  "lyric": "바"
+ },
+ {
+  "bar": 6,
+  "onset": 18,
+  "pitch": 71,
+  "lyric": "라"
+ },
+ {
+  "bar": 6,
+  "onset": 24,
+  "pitch": 69,
+  "lyric": "보"
+ },
+ {
+  "bar": 6,
+  "onset": 36,
+  "pitch": 64,
+  "lyric": "던"
+ },
+ {
+  "bar": 7,
+  "onset": 0,
+  "pitch": 67,
+  "lyric": "날"
+ },
+ {
+  "bar": 8,
+  "onset": 0,
+  "pitch": 65,
+  "lyric": "떨"
+ },
+ {
+  "bar": 8,
+  "onset": 12,
+  "pitch": 69,
+  "lyric": "리"
+ },
+ {
+  "bar": 8,
+  "onset": 24,
+  "pitch": 72,
+  "lyric": "는"
+ },
+ {
+  "bar": 8,
+  "onset": 36,
+  "pitch": 77,
+  "lyric": "손"
+ },
+ {
+  "bar": 9,
+  "onset": 0,
+  "pitch": 76,
+  "lyric": "꼭"
+ },
+ {
+  "bar": 9,
+  "onset": 24,
+  "pitch": 72,
+  "lyric": "잡"
+ },
+ {
+  "bar": 9,
+  "onset": 36,
+  "pitch": 67,
+  "lyric": "고"
+ },
+ {
+  "bar": 10,
+  "onset": 0,
+  "pitch": 69,
+  "lyric": "사"
+ },
+ {
+  "bar": 10,
+  "onset": 18,
+  "pitch": 72,
+  "lyric": "진"
+ },
+ {
+  "bar": 10,
+  "onset": 24,
+  "pitch": 74,
+  "lyric": "한"
+ },
+ {
+  "bar": 10,
+  "onset": 36,
+  "pitch": 72,
+  "lyric": "장"
+ },
+ {
+  "bar": 11,
+  "onset": 0,
+  "pitch": 71,
+  "lyric": "담"
+ },
+ {
+  "bar": 11,
+  "onset": 24,
+  "pitch": 67,
+  "lyric": "아"
+ },
+ {
+  "bar": 12,
+  "onset": 0,
+  "pitch": 72,
+  "lyric": "네"
+ },
+ {
+  "bar": 12,
+  "onset": 12,
+  "pitch": 77,
+  "lyric": "이"
+ },
+ {
+  "bar": 12,
+  "onset": 24,
+  "pitch": 76,
+  "lyric": "름"
+ },
+ {
+  "bar": 12,
+  "onset": 36,
+  "pitch": 77,
+  "lyric": "이"
+ },
+ {
+  "bar": 13,
+  "onset": 0,
+  "pitch": 79,
+  "lyric": "불"
+ },
+ {
+  "bar": 13,
+  "onset": 24,
+  "pitch": 74,
+  "lyric": "리"
+ },
+ {
+  "bar": 13,
+  "onset": 36,
+  "pitch": 71,
+  "lyric": "던"
+ },
+ {
+  "bar": 14,
+  "onset": 0,
+  "pitch": 76,
+  "lyric": "특"
+ },
+ {
+  "bar": 14,
+  "onset": 18,
+  "pitch": 74,
+  "lyric": "상"
+ },
+ {
+  "bar": 14,
+  "onset": 24,
+  "pitch": 71,
+  "lyric": "이"
+ },
+ {
+  "bar": 14,
+  "onset": 36,
+  "pitch": 67,
+  "lyric": "란"
+ },
+ {
+  "bar": 15,
+  "onset": 0,
+  "pitch": 72,
+  "lyric": "말"
+ },
+ {
+  "bar": 15,
+  "onset": 36,
+  "pitch": 69,
+  "lyric": "에"
+ },
+ {
+  "bar": 16,
+  "onset": 0,
+  "pitch": 74,
+  "lyric": "눈"
+ },
+ {
+  "bar": 16,
+  "onset": 12,
+  "pitch": 77,
+  "lyric": "물"
+ },
+ {
+  "bar": 16,
+  "onset": 24,
+  "pitch": 81,
+  "lyric": "고"
+ },
+ {
+  "bar": 16,
+  "onset": 42,
+  "pitch": 79,
+  "lyric": "인"
+ },
+ {
+  "bar": 17,
+  "onset": 0,
+  "pitch": 79,
+  "lyric": "채"
+ },
+ {
+  "bar": 17,
+  "onset": 24,
+  "pitch": 74,
+  "lyric": "로"
+ },
+ {
+  "bar": 18,
+  "onset": 0,
+  "pitch": 77,
+  "lyric": "손"
+ },
+ {
+  "bar": 18,
+  "onset": 12,
+  "pitch": 76,
+  "lyric": "뼉"
+ },
+ {
+  "bar": 18,
+  "onset": 24,
+  "pitch": 74,
+  "lyric": "쳤"
+ },
+ {
+  "bar": 18,
+  "onset": 36,
+  "pitch": 72,
+  "lyric": "어"
+ },
+ {
+  "bar": 19,
+  "onset": 0,
+  "pitch": 74,
+  "lyric": "대"
+ },
+ {
+  "bar": 19,
+  "onset": 24,
+  "pitch": 71,
+  "lyric": "견"
+ },
+ {
+  "bar": 19,
+  "onset": 36,
+  "pitch": 67,
+  "lyric": "해"
+ },
+ {
+  "bar": 20,
+  "onset": 0,
+  "pitch": 64,
+  "lyric": "언"
+ },
+ {
+  "bar": 20,
+  "onset": 12,
+  "pitch": 67,
+  "lyric": "제"
+ },
+ {
+  "bar": 20,
+  "onset": 24,
+  "pitch": 72,
+  "lyric": "이"
+ },
+ {
+  "bar": 20,
+  "onset": 42,
+  "pitch": 71,
+  "lyric": "리"
+ },
+ {
+  "bar": 21,
+  "onset": 0,
+  "pitch": 71,
+  "lyric": "자"
+ },
+ {
+  "bar": 21,
+  "onset": 24,
+  "pitch": 74,
+  "lyric": "랐"
+ },
+ {
+  "bar": 21,
+  "onset": 36,
+  "pitch": 71,
+  "lyric": "니"
+ },
+ {
+  "bar": 22,
+  "onset": 0,
+  "pitch": 72,
+  "lyric": "작"
+ },
+ {
+  "bar": 22,
+  "onset": 18,
+  "pitch": 71,
+  "lyric": "던"
+ },
+ {
+  "bar": 22,
+  "onset": 24,
+  "pitch": 69,
+  "lyric": "아"
+ },
+ {
+  "bar": 22,
+  "onset": 36,
+  "pitch": 64,
+  "lyric": "이"
+ },
+ {
+  "bar": 23,
+  "onset": 0,
+  "pitch": 67,
+  "lyric": "가"
+ },
+ {
+  "bar": 24,
+  "onset": 0,
+  "pitch": 65,
+  "lyric": "오"
+ },
+ {
+  "bar": 24,
+  "onset": 12,
+  "pitch": 69,
+  "lyric": "늘"
+ },
+ {
+  "bar": 24,
+  "onset": 24,
+  "pitch": 72,
+  "lyric": "하"
+ },
+ {
+  "bar": 24,
+  "onset": 36,
+  "pitch": 77,
+  "lyric": "루"
+ },
+ {
+  "bar": 25,
+  "onset": 0,
+  "pitch": 76,
+  "lyric": "가"
+ },
+ {
+  "bar": 25,
+  "onset": 24,
+  "pitch": 72,
+  "lyric": "족"
+ },
+ {
+  "bar": 25,
+  "onset": 36,
+  "pitch": 67,
+  "lyric": "과"
+ },
+ {
+  "bar": 26,
+  "onset": 0,
+  "pitch": 69,
+  "lyric": "함"
+ },
+ {
+  "bar": 26,
+  "onset": 12,
+  "pitch": 72,
+  "lyric": "께"
+ },
+ {
+  "bar": 26,
+  "onset": 24,
+  "pitch": 74,
+  "lyric": "라"
+ },
+ {
+  "bar": 26,
+  "onset": 36,
+  "pitch": 77,
+  "lyric": "서"
+ },
+ {
+  "bar": 27,
+  "onset": 0,
+  "pitch": 74,
+  "lyric": "좋"
+ },
+ {
+  "bar": 27,
+  "onset": 24,
+  "pitch": 71,
+  "lyric": "아"
+ },
+ {
+  "bar": 28,
+  "onset": 0,
+  "pitch": 77,
+  "lyric": "고"
+ },
+ {
+  "bar": 28,
+  "onset": 24,
+  "pitch": 76,
+  "lyric": "마"
+ },
+ {
+  "bar": 28,
+  "onset": 36,
+  "pitch": 72,
+  "lyric": "워"
+ },
+ {
+  "bar": 29,
+  "onset": 0,
+  "pitch": 74,
+  "lyric": "사"
+ },
+ {
+  "bar": 29,
+  "onset": 24,
+  "pitch": 71,
+  "lyric": "랑"
+ },
+ {
+  "bar": 29,
+  "onset": 36,
+  "pitch": 67,
+  "lyric": "해"
+ },
+ {
+  "bar": 30,
+  "onset": 0,
+  "pitch": 72,
+  "lyric": "요"
+ }
+]
