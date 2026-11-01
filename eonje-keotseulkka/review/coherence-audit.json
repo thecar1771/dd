@@ -1,0 +1,338 @@
+{
+  "phrases": [
+    {
+      "phrase_id": "line_01",
+      "text": "콩쿠르 대회에 와서",
+      "issues": [],
+      "semantic_review": "not_established_by_rules",
+      "metrics": {
+        "notes": 8,
+        "syllables": 8,
+        "words": 3,
+        "max_internal_leap": 5,
+        "last_pitch": 67,
+        "last_duration_ticks": 12,
+        "incoming_interval": null,
+        "outgoing_interval": -3
+      },
+      "policy": "symbolic heuristics; flags require contextual/editorial interpretation"
+    },
+    {
+      "phrase_id": "line_02",
+      "text": "나란히 사진을 찍고",
+      "issues": [],
+      "semantic_review": "not_established_by_rules",
+      "metrics": {
+        "notes": 8,
+        "syllables": 8,
+        "words": 3,
+        "max_internal_leap": 5,
+        "last_pitch": 64,
+        "last_duration_ticks": 12,
+        "incoming_interval": -3,
+        "outgoing_interval": -4
+      },
+      "policy": "symbolic heuristics; flags require contextual/editorial interpretation"
+    },
+    {
+      "phrase_id": "line_03",
+      "text": "무대에 선 너를 보며",
+      "issues": [],
+      "semantic_review": "not_established_by_rules",
+      "metrics": {
+        "notes": 8,
+        "syllables": 8,
+        "words": 4,
+        "max_internal_leap": 3,
+        "last_pitch": 64,
+        "last_duration_ticks": 12,
+        "incoming_interval": -4,
+        "outgoing_interval": -2
+      },
+      "policy": "symbolic heuristics; flags require contextual/editorial interpretation"
+    },
+    {
+      "phrase_id": "line_04",
+      "text": "두 손 모아 응원했어",
+      "issues": [],
+      "semantic_review": "not_established_by_rules",
+      "metrics": {
+        "notes": 8,
+        "syllables": 8,
+        "words": 4,
+        "max_internal_leap": 3,
+        "last_pitch": 62,
+        "last_duration_ticks": 12,
+        "incoming_interval": -2,
+        "outgoing_interval": 2
+      },
+      "policy": "symbolic heuristics; flags require contextual/editorial interpretation"
+    },
+    {
+      "phrase_id": "line_05",
+      "text": "드디어 불린 네 이름",
+      "issues": [],
+      "semantic_review": "not_established_by_rules",
+      "metrics": {
+        "notes": 8,
+        "syllables": 8,
+        "words": 4,
+        "max_internal_leap": 5,
+        "last_pitch": 67,
+        "last_duration_ticks": 12,
+        "incoming_interval": 2,
+        "outgoing_interval": 2
+      },
+      "policy": "symbolic heuristics; flags require contextual/editorial interpretation"
+    },
+    {
+      "phrase_id": "line_06",
+      "text": "특상이라는 소식에",
+      "issues": [],
+      "semantic_review": "not_established_by_rules",
+      "metrics": {
+        "notes": 8,
+        "syllables": 8,
+        "words": 2,
+        "max_internal_leap": 5,
+        "last_pitch": 67,
+        "last_duration_ticks": 12,
+        "incoming_interval": 2,
+        "outgoing_interval": 5
+      },
+      "policy": "symbolic heuristics; flags require contextual/editorial interpretation"
+    },
+    {
+      "phrase_id": "line_07",
+      "text": "대견하고 기특한 우리 딸",
+      "issues": [],
+      "semantic_review": "not_established_by_rules",
+      "metrics": {
+        "notes": 10,
+        "syllables": 10,
+        "words": 4,
+        "max_internal_leap": 5,
+        "last_pitch": 71,
+        "last_duration_ticks": 12,
+        "incoming_interval": 5,
+        "outgoing_interval": -4
+      },
+      "policy": "symbolic heuristics; flags require contextual/editorial interpretation"
+    },
+    {
+      "phrase_id": "line_08",
+      "text": "언제 이렇게 다 컸니",
+      "issues": [],
+      "semantic_review": "not_established_by_rules",
+      "metrics": {
+        "notes": 8,
+        "syllables": 8,
+        "words": 4,
+        "max_internal_leap": 5,
+        "last_pitch": 72,
+        "last_duration_ticks": 12,
+        "incoming_interval": -4,
+        "outgoing_interval": -3
+      },
+      "policy": "symbolic heuristics; flags require contextual/editorial interpretation"
+    },
+    {
+      "phrase_id": "line_09",
+      "text": "작기만 하던 네가",
+      "issues": [],
+      "semantic_review": "not_established_by_rules",
+      "metrics": {
+        "notes": 7,
+        "syllables": 7,
+        "words": 3,
+        "max_internal_leap": 3,
+        "last_pitch": 71,
+        "last_duration_ticks": 24,
+        "incoming_interval": -3,
+        "outgoing_interval": -4
+      },
+      "policy": "symbolic heuristics; flags require contextual/editorial interpretation"
+    },
+    {
+      "phrase_id": "line_10",
+      "text": "어느새 무대에 섰네",
+      "issues": [],
+      "semantic_review": "not_established_by_rules",
+      "metrics": {
+        "notes": 8,
+        "syllables": 8,
+        "words": 3,
+        "max_internal_leap": 5,
+        "last_pitch": 71,
+        "last_duration_ticks": 12,
+        "incoming_interval": -4,
+        "outgoing_interval": -2
+      },
+      "policy": "symbolic heuristics; flags require contextual/editorial interpretation"
+    },
+    {
+      "phrase_id": "line_11",
+      "text": "다 함께 웃던 오늘은",
+      "issues": [],
+      "semantic_review": "not_established_by_rules",
+      "metrics": {
+        "notes": 8,
+        "syllables": 8,
+        "words": 4,
+        "max_internal_leap": 5,
+        "last_pitch": 71,
+        "last_duration_ticks": 12,
+        "incoming_interval": -2,
+        "outgoing_interval": -2
+      },
+      "policy": "symbolic heuristics; flags require contextual/editorial interpretation"
+    },
+    {
+      "phrase_id": "line_12",
+      "text": "가족 덕분에 행복해",
+      "issues": [],
+      "semantic_review": "not_established_by_rules",
+      "metrics": {
+        "notes": 8,
+        "syllables": 8,
+        "words": 3,
+        "max_internal_leap": 3,
+        "last_pitch": 72,
+        "last_duration_ticks": 12,
+        "incoming_interval": -2,
+        "outgoing_interval": -1
+      },
+      "policy": "symbolic heuristics; flags require contextual/editorial interpretation"
+    }
+  ],
+  "issues": [],
+  "reviewed_phrase_count": 12,
+  "semantic_review": "editorial_or_configured_language_reviewer_required",
+  "format": "omr-song-coherence-audit-v1",
+  "phrase_digests": {
+    "line_01": "67f0664551438424105ec563c47a0a1864b50e10bd1c689d8a2b78a3aa8c5dde",
+    "line_02": "b6e0f3c7909972f3a2b85c78dab6155a57c027d7e4947beb17f41a5224c49238",
+    "line_03": "c28be6664f91f6a54dd8bf2a474e618dfb852c8a752d7daaf1ba3e310aa216ee",
+    "line_04": "cc2fe24157a14f6ca63543f0c00528cab4d1b8e944838bfc02e7f7963ee406c5",
+    "line_05": "4cc010053dea38ed38693aa9d534e166ab4bcd677daa1612687487a43f55cd15",
+    "line_06": "5002cf1dc2de17f9007ace8edba0f2a8bdcafba761906aee670540ba095260f9",
+    "line_07": "f17b0430d6e0fba62044e3fbe34efd421ef7c5ea561f301b080f981eca1bea0e",
+    "line_08": "55514166f5f1b5594b7873c1d40d84b8ab18db2313c165b5331321252f918d04",
+    "line_09": "9eeff9c2916537ba57559b76a07cddf6f1bdf69c4880fff97029dc71b2895e45",
+    "line_10": "b9114357ce9a1b8449e712683e30d0b458a3bc899215c40ddbbb31bf808cd6fb",
+    "line_11": "b2a36f951c10db9305c976b6e6ad153c83bcee0e38a2519255116cdf2f044155",
+    "line_12": "75023215a72b1eee4239bbba779040c8bdb74266712e466b6b8cfd15bedceb1a"
+  },
+  "outgoing_anchor": {
+    "bar": 28,
+    "onset": 12,
+    "pitch": 71,
+    "source": "source lead ledger, not generated RH inner voice"
+  },
+  "editorial_reviews": [
+    {
+      "phrase_id": "line_01",
+      "digest": "67f0664551438424105ec563c47a0a1864b50e10bd1c689d8a2b78a3aa8c5dde",
+      "decision": "accept",
+      "reviewer": "Claude agent editorial (no human listening label)",
+      "reason": "사용자 문장 \"콩쿠르 대회에 와서\"를 그대로 쓴 첫 장면이다.",
+      "waived_codes": []
+    },
+    {
+      "phrase_id": "line_02",
+      "digest": "b6e0f3c7909972f3a2b85c78dab6155a57c027d7e4947beb17f41a5224c49238",
+      "decision": "accept",
+      "reviewer": "Claude agent editorial (no human listening label)",
+      "reason": "사용자 문장 \"사진을 찍었습니다\"와 사진 속 세 사람이 나란히 선 모습을 잇는다.",
+      "waived_codes": []
+    },
+    {
+      "phrase_id": "line_03",
+      "digest": "c28be6664f91f6a54dd8bf2a474e618dfb852c8a752d7daaf1ba3e310aa216ee",
+      "decision": "accept",
+      "reviewer": "Claude agent editorial (no human listening label)",
+      "reason": "사진 다음 장면으로 무대 위 딸을 지켜보는 부모의 시선이다.",
+      "waived_codes": []
+    },
+    {
+      "phrase_id": "line_04",
+      "digest": "cc2fe24157a14f6ca63543f0c00528cab4d1b8e944838bfc02e7f7963ee406c5",
+      "decision": "accept",
+      "reviewer": "Claude agent editorial (no human listening label)",
+      "reason": "앞 줄의 지켜봄을 응원하는 행동으로 완결한다.",
+      "waived_codes": []
+    },
+    {
+      "phrase_id": "line_05",
+      "digest": "4cc010053dea38ed38693aa9d534e166ab4bcd677daa1612687487a43f55cd15",
+      "decision": "accept",
+      "reviewer": "Claude agent editorial (no human listening label)",
+      "reason": "결과 발표 순간으로 넘어가며 다음 줄을 기다리게 한다.",
+      "waived_codes": []
+    },
+    {
+      "phrase_id": "line_06",
+      "digest": "5002cf1dc2de17f9007ace8edba0f2a8bdcafba761906aee670540ba095260f9",
+      "decision": "accept",
+      "reviewer": "Claude agent editorial (no human listening label)",
+      "reason": "사용자 문장 \"특상도 받았습니다\"를 담고, \"소식에\"로 후렴의 감정으로 이어진다.",
+      "waived_codes": []
+    },
+    {
+      "phrase_id": "line_07",
+      "digest": "f17b0430d6e0fba62044e3fbe34efd421ef7c5ea561f301b080f981eca1bea0e",
+      "decision": "accept",
+      "reviewer": "Claude agent editorial (no human listening label)",
+      "reason": "사용자 단어 \"대견하고 기특합니다\"를 딸에게 직접 하는 말로 옮겼다.",
+      "waived_codes": []
+    },
+    {
+      "phrase_id": "line_08",
+      "digest": "55514166f5f1b5594b7873c1d40d84b8ab18db2313c165b5331321252f918d04",
+      "decision": "accept",
+      "reviewer": "Claude agent editorial (no human listening label)",
+      "reason": "사용자 문장 \"언제 이렇게 컸는지\"를 딸에게 묻는 말로 옮겼다.",
+      "waived_codes": []
+    },
+    {
+      "phrase_id": "line_09",
+      "digest": "9eeff9c2916537ba57559b76a07cddf6f1bdf69c4880fff97029dc71b2895e45",
+      "decision": "accept",
+      "reviewer": "Claude agent editorial (no human listening label)",
+      "reason": "\"컸니\"를 받아 어렸던 시절을 떠올리며 다음 줄로 이어진다.",
+      "waived_codes": []
+    },
+    {
+      "phrase_id": "line_10",
+      "digest": "b9114357ce9a1b8449e712683e30d0b458a3bc899215c40ddbbb31bf808cd6fb",
+      "decision": "accept",
+      "reviewer": "Claude agent editorial (no human listening label)",
+      "reason": "작던 아이가 무대에 섰다는 대비로 \"신기합니다\"의 마음을 완결한다.",
+      "waived_codes": []
+    },
+    {
+      "phrase_id": "line_11",
+      "digest": "b2a36f951c10db9305c976b6e6ad153c83bcee0e38a2519255116cdf2f044155",
+      "decision": "accept",
+      "reviewer": "Claude agent editorial (no human listening label)",
+      "reason": "하루 전체를 가족이 함께 웃은 날로 모은다.",
+      "waived_codes": []
+    },
+    {
+      "phrase_id": "line_12",
+      "digest": "75023215a72b1eee4239bbba779040c8bdb74266712e466b6b8cfd15bedceb1a",
+      "decision": "accept",
+      "reviewer": "Claude agent editorial (no human listening label)",
+      "reason": "사용자 문장 \"가족 덕분에 행복한 하루\"로 끝맺고 으뜸음 종지와 맞춘다.",
+      "waived_codes": []
+    }
+  ],
+  "instrumental_digest": "04ad5f04a38f06599881f34a7777659c19519b63655ca49490e4fdb9a74c7f40",
+  "instrumental_join_issues": [],
+  "song_context_digest": "7a93bcaaaa4e627386ff8ccaccd927b4194d35e6f3587a2ccfa5d122628979f3",
+  "editorial_missing": [],
+  "unresolved_issues": [],
+  "accepted": true,
+  "editorial_review_scope": "recorded agent/human decisions, not a trained semantic classifier",
+  "stage": "final arrangement; explicit lead ledger, actual note membership verified"
+}

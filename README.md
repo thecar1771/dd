@@ -2,9 +2,9 @@
 
 ## 최신: 언제 이렇게 컸을까 · 노래와 피아노
 
-첫째 딸의 콩쿠르 특상을 축하하는 날의 기분을 담은 32마디 노래와 피아노입니다. 다장조·♩=72.
+첫째 딸의 콩쿠르 특상을 축하하는 날의 마음을 담은 32마디 노래와 피아노 곡입니다. 다장조·♩=72입니다. 〈오늘도, 나의 자리〉와 같은 방식으로 만들었습니다. 가사를 먼저 쓰고, 2마디 가사 리듬을 정한 뒤, 모델이 선율을 고르고, 가사·선율 검사를 거쳤습니다.
 
-[안내와 가사](eonje-keotseulkka/README.md) · [가사 포함 악보 PDF](eonje-keotseulkka/score.pdf) · [피아노 MP3](eonje-keotseulkka/piano.mp3)
+[안내와 가사](eonje-keotseulkka/README.md) · [가사 포함 악보 PDF](eonje-keotseulkka/piano/score.pdf) · [피아노 MP3](eonje-keotseulkka/piano.mp3)
 
 ---
 

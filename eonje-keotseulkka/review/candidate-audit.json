@@ -1,0 +1,74 @@
+{
+  "rule": "fewest song_coherence rule issues, ties -> lowest seed; no listening/semantic score",
+  "selected": "seed-2026110104",
+  "candidates": [
+    {
+      "candidate": "seed-2026110104",
+      "issues": 0,
+      "issue_list": [],
+      "lead_range": [
+        60,
+        76
+      ],
+      "repeated_pitch_ratio": 0.171
+    },
+    {
+      "candidate": "seed-2026110101",
+      "issues": 1,
+      "issue_list": [
+        {
+          "code": "particle_pitch_pivot",
+          "phrase": "line_03",
+          "details": {
+            "syllable": "를"
+          }
+        }
+      ],
+      "lead_range": [
+        60,
+        76
+      ],
+      "repeated_pitch_ratio": 0.252
+    },
+    {
+      "candidate": "seed-2026110102",
+      "issues": 1,
+      "issue_list": [
+        {
+          "code": "particle_pitch_pivot",
+          "phrase": "line_02",
+          "details": {
+            "syllable": "을"
+          }
+        }
+      ],
+      "lead_range": [
+        60,
+        76
+      ],
+      "repeated_pitch_ratio": 0.216
+    },
+    {
+      "candidate": "seed-2026110103",
+      "issues": 1,
+      "issue_list": [
+        {
+          "code": "large_instrumental_leap",
+          "phrase": "instrumental",
+          "details": {
+            "left_onset": 1464,
+            "right_onset": 1488,
+            "left_pitch": 62,
+            "right_pitch": 72,
+            "semitones": 10
+          }
+        }
+      ],
+      "lead_range": [
+        60,
+        77
+      ],
+      "repeated_pitch_ratio": 0.216
+    }
+  ]
+}

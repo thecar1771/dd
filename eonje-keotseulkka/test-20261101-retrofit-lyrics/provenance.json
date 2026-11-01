@@ -1,0 +1,646 @@
+{
+  "title": "언제 이렇게 컸을까",
+  "instrument": "solo_piano",
+  "seed": 20261101,
+  "bpm": 72,
+  "key": "C major",
+  "meter": "4/4",
+  "usage_profile": "research-noncommercial",
+  "form_labels": {
+    "0": "Intro",
+    "4": "A",
+    "12": "B",
+    "20": "A'",
+    "28": "Coda"
+  },
+  "sections": [
+    {
+      "name": "Intro",
+      "story": "콩쿠르 무대 앞, 조용한 설렘",
+      "bars": 4
+    },
+    {
+      "name": "A",
+      "story": "사진을 찍는 순간, 나란히 선 가족",
+      "bars": 8
+    },
+    {
+      "name": "B",
+      "story": "특상 — 대견하고 기특한 마음이 벅차오름",
+      "bars": 8
+    },
+    {
+      "name": "A'",
+      "story": "언제 이렇게 컸는지, 같은 선율을 다시 돌아봄",
+      "bars": 8
+    },
+    {
+      "name": "Coda",
+      "story": "가족 덕분에 행복한 하루",
+      "bars": 4
+    }
+  ],
+  "user_input": {
+    "genre": "미정 → 피아노 독주 발라드(작성자 선택)",
+    "mood": "첫째 딸 콩쿠르 특상, 대견함·기특함, 언제 이렇게 컸는지, 가족 덕분에 행복한 하루"
+  },
+  "checkpoint_sha256": "6dbd3ac761d48a683e078ecac55e38883721f955c7bc52a41137f658750753f6",
+  "note_source": "authored original melody; rich-piano v1 model chooses LH and inner-voice pitches",
+  "authored": "melody, chords, form, section dynamics, accompaniment rhythm templates, final chord, title",
+  "generation": [
+    {
+      "bar": 0,
+      "model_pitch_choices": 3,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      },
+      "texture_bar": 0,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 1,
+      "model_pitch_choices": 1,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "texture_bar": 1,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 2,
+      "model_pitch_choices": 3,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      },
+      "texture_bar": 2,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 3,
+      "model_pitch_choices": 2,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      },
+      "texture_bar": 3,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 4,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      },
+      "texture_bar": 4,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 5,
+      "model_pitch_choices": 6,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      },
+      "texture_bar": 5,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 6,
+      "model_pitch_choices": 6,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      },
+      "texture_bar": 6,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 7,
+      "model_pitch_choices": 7,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "texture_bar": 7,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 8,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      },
+      "texture_bar": 8,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 9,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      },
+      "texture_bar": 9,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 10,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      },
+      "texture_bar": 10,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 11,
+      "model_pitch_choices": 7,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "texture_bar": 11,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 12,
+      "model_pitch_choices": 11,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      },
+      "texture_bar": 16,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 13,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 1,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "texture_bar": 17,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 14,
+      "model_pitch_choices": 11,
+      "skipped_unplayable_slots": 1,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      },
+      "texture_bar": 18,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 15,
+      "model_pitch_choices": 10,
+      "skipped_unplayable_slots": 1,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "texture_bar": 19,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 16,
+      "model_pitch_choices": 10,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      },
+      "texture_bar": 20,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 17,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "texture_bar": 21,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 18,
+      "model_pitch_choices": 11,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      },
+      "texture_bar": 22,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 19,
+      "model_pitch_choices": 9,
+      "skipped_unplayable_slots": 1,
+      "requested_controls": {
+        "density": "dense",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "texture_bar": 23,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 20,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      },
+      "texture_bar": 8,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 21,
+      "model_pitch_choices": 6,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      },
+      "texture_bar": 9,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 22,
+      "model_pitch_choices": 6,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      },
+      "texture_bar": 10,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 23,
+      "model_pitch_choices": 7,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "texture_bar": 11,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 24,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      },
+      "texture_bar": 12,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 25,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      },
+      "texture_bar": 13,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 26,
+      "model_pitch_choices": 8,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "minor"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      },
+      "texture_bar": 14,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 27,
+      "model_pitch_choices": 7,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "flowing",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "texture_bar": 15,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 28,
+      "model_pitch_choices": 3,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      },
+      "texture_bar": 28,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 29,
+      "model_pitch_choices": 1,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "major"
+      },
+      "texture_bar": 29,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 30,
+      "model_pitch_choices": 3,
+      "skipped_unplayable_slots": 0,
+      "requested_controls": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "mixed",
+        "harmony": "major"
+      },
+      "actual_features": {
+        "density": "sparse",
+        "polyphony": "full",
+        "texture": "chordal",
+        "harmony": "minor"
+      },
+      "texture_bar": 30,
+      "source": "authored melody; model-chosen LH and inner voices"
+    },
+    {
+      "bar": 31,
+      "source": "authored final tonic chord"
+    }
+  ],
+  "limitations": "The model does not read the photo or text; the scene mapping is authored. No listening-quality claim."
+}

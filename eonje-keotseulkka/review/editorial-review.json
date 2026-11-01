@@ -1,0 +1,98 @@
+[
+  {
+    "phrase_id": "line_01",
+    "digest": "67f0664551438424105ec563c47a0a1864b50e10bd1c689d8a2b78a3aa8c5dde",
+    "decision": "accept",
+    "reviewer": "Claude agent editorial (no human listening label)",
+    "reason": "사용자 문장 \"콩쿠르 대회에 와서\"를 그대로 쓴 첫 장면이다.",
+    "waived_codes": []
+  },
+  {
+    "phrase_id": "line_02",
+    "digest": "b6e0f3c7909972f3a2b85c78dab6155a57c027d7e4947beb17f41a5224c49238",
+    "decision": "accept",
+    "reviewer": "Claude agent editorial (no human listening label)",
+    "reason": "사용자 문장 \"사진을 찍었습니다\"와 사진 속 세 사람이 나란히 선 모습을 잇는다.",
+    "waived_codes": []
+  },
+  {
+    "phrase_id": "line_03",
+    "digest": "c28be6664f91f6a54dd8bf2a474e618dfb852c8a752d7daaf1ba3e310aa216ee",
+    "decision": "accept",
+    "reviewer": "Claude agent editorial (no human listening label)",
+    "reason": "사진 다음 장면으로 무대 위 딸을 지켜보는 부모의 시선이다.",
+    "waived_codes": []
+  },
+  {
+    "phrase_id": "line_04",
+    "digest": "cc2fe24157a14f6ca63543f0c00528cab4d1b8e944838bfc02e7f7963ee406c5",
+    "decision": "accept",
+    "reviewer": "Claude agent editorial (no human listening label)",
+    "reason": "앞 줄의 지켜봄을 응원하는 행동으로 완결한다.",
+    "waived_codes": []
+  },
+  {
+    "phrase_id": "line_05",
+    "digest": "4cc010053dea38ed38693aa9d534e166ab4bcd677daa1612687487a43f55cd15",
+    "decision": "accept",
+    "reviewer": "Claude agent editorial (no human listening label)",
+    "reason": "결과 발표 순간으로 넘어가며 다음 줄을 기다리게 한다.",
+    "waived_codes": []
+  },
+  {
+    "phrase_id": "line_06",
+    "digest": "5002cf1dc2de17f9007ace8edba0f2a8bdcafba761906aee670540ba095260f9",
+    "decision": "accept",
+    "reviewer": "Claude agent editorial (no human listening label)",
+    "reason": "사용자 문장 \"특상도 받았습니다\"를 담고, \"소식에\"로 후렴의 감정으로 이어진다.",
+    "waived_codes": []
+  },
+  {
+    "phrase_id": "line_07",
+    "digest": "f17b0430d6e0fba62044e3fbe34efd421ef7c5ea561f301b080f981eca1bea0e",
+    "decision": "accept",
+    "reviewer": "Claude agent editorial (no human listening label)",
+    "reason": "사용자 단어 \"대견하고 기특합니다\"를 딸에게 직접 하는 말로 옮겼다.",
+    "waived_codes": []
+  },
+  {
+    "phrase_id": "line_08",
+    "digest": "55514166f5f1b5594b7873c1d40d84b8ab18db2313c165b5331321252f918d04",
+    "decision": "accept",
+    "reviewer": "Claude agent editorial (no human listening label)",
+    "reason": "사용자 문장 \"언제 이렇게 컸는지\"를 딸에게 묻는 말로 옮겼다.",
+    "waived_codes": []
+  },
+  {
+    "phrase_id": "line_09",
+    "digest": "9eeff9c2916537ba57559b76a07cddf6f1bdf69c4880fff97029dc71b2895e45",
+    "decision": "accept",
+    "reviewer": "Claude agent editorial (no human listening label)",
+    "reason": "\"컸니\"를 받아 어렸던 시절을 떠올리며 다음 줄로 이어진다.",
+    "waived_codes": []
+  },
+  {
+    "phrase_id": "line_10",
+    "digest": "b9114357ce9a1b8449e712683e30d0b458a3bc899215c40ddbbb31bf808cd6fb",
+    "decision": "accept",
+    "reviewer": "Claude agent editorial (no human listening label)",
+    "reason": "작던 아이가 무대에 섰다는 대비로 \"신기합니다\"의 마음을 완결한다.",
+    "waived_codes": []
+  },
+  {
+    "phrase_id": "line_11",
+    "digest": "b2a36f951c10db9305c976b6e6ad153c83bcee0e38a2519255116cdf2f044155",
+    "decision": "accept",
+    "reviewer": "Claude agent editorial (no human listening label)",
+    "reason": "하루 전체를 가족이 함께 웃은 날로 모은다.",
+    "waived_codes": []
+  },
+  {
+    "phrase_id": "line_12",
+    "digest": "75023215a72b1eee4239bbba779040c8bdb74266712e466b6b8cfd15bedceb1a",
+    "decision": "accept",
+    "reviewer": "Claude agent editorial (no human listening label)",
+    "reason": "사용자 문장 \"가족 덕분에 행복한 하루\"로 끝맺고 으뜸음 종지와 맞춘다.",
+    "waived_codes": []
+  }
+]
